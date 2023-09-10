@@ -76,7 +76,7 @@ ul {
         }
 
         span {
-            font-size: 18px;
+            font-size: 20px;
 
             position: absolute;
             left: 12vw;
@@ -131,7 +131,7 @@ ul {
     
     ul { margin: 45px 0; width: 40vw; }
         li { height: 15vh; }
-            .bullet{ width: 20px; }
+            .bullet{ width: 20px; left: 3vw; }
             span { font-size: 20px; left: 5.75vw; }
             .buttons {
                 flex-direction: row;
