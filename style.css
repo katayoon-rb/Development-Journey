@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Oswald:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    height: 120vh;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-image: url(bg.png);
+    background-size: cover;
+    background-repeat: repeat-y;
+    overflow-y: scroll;
+
+    color: #3b3632;
+    margin-top: 75px;
+}
+
+
+.name {
+    font-family: 'Dancing Script', cursive;
+    font-size: 32px;
+    font-weight: 700;
+
+    text-align: center;
+    color: #556868;
+
+    text-shadow: -2px 2px 5px #8fb1b1;
+}
+.title {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+ul {
+    background: #fff;
+    margin: 30px 0;
+    padding: 15px 0;
+
+    list-style: none;
+
+    width: 90vw;
+    position: relative;
+
+    border-radius: 15px;
+    box-shadow: 0 0 10px -2px #1b1a1995;
+}
+    li {
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+        justify-content: center;
+
+        border-bottom: 1px solid #455353;
+
+        height: 12vh;
+        padding: 30px 0;
+    }
+
+        .bullet{
+            content: url(bullet.png);
+            width: 15px;
+            margin-right: 3px;
+
+            position: absolute;
+            left: 3vw;
+        }
+
+        span {
+            font-size: 14px;
+
+            position: absolute;
+            left: 12vw;
+        }
+
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            
+            position: absolute;
+            right: 3vw;
+
+            width: 25vw;
+            margin-bottom: 8px;
+        }
+            button {
+                cursor: pointer;
+                background-color: #dfe2bc;
+
+                height: 20px;
+                width: 100%;
+
+                color: #3b3632;
+                font-size: 8px;
+                font-weight: bold;
+
+                border: 1px solid #887a71;
+                border-radius: 20px;
+            }
+
+
+.done { background-color: #ebd6c6; }
+    .done .bullet { content: url(donebullet.png); }
+    .done span { color: #9d8e83; }
+    .done button { background-color: #bdc0a085; color: #3b363282; }
+
+.last { border: none; }
+
+
+
+
+@media (min-width: 500px) {
+    body {
+        background-image: url(bg\ -\ Copy.png);
+        margin: 75px 0;
+        background-size: contain;
+    }
+
+    .name { font-size: 55px; }
+    .title { font-size: 25px; }
+    
+    ul { margin: 45px 0; width: 40vw; }
+        li { height: 15vh; }
+            .bullet{ width: 20px; }
+            span { font-size: 20px; left: 5.75vw; }
+            .buttons {
+                flex-direction: row;
+                right: 3vw;
+                width: 13.5vw;
+                margin: 0;
+            }
+                button {
+                    height: 30px;
+                    width: 120%;
+                    font-size: 11px;
+                }
+                .site {
+                    margin-right: 18px;
+                }
+}
