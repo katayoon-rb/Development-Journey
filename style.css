@@ -70,13 +70,10 @@ ul {
             content: url(bullet.png);
             width: 15px;
             margin-right: 3px;
-
-            position: absolute;
-            left: 3vw;
         }
 
         span {
-            font-size: 14px;
+            font-size: 18px;
 
             position: absolute;
             left: 12vw;
@@ -86,9 +83,6 @@ ul {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-            
-            position: absolute;
-            right: 3vw;
 
             width: 25vw;
             margin-bottom: 8px;
