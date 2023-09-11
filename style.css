@@ -115,8 +115,7 @@ ul {
     .done button { background-color: #bdc0a085; color: #3b363282; }
 
 .last { border: none; }
-
-
+.small { font-size: 17px; }
 
 
 @media (min-width: 500px) {
@@ -144,7 +143,6 @@ ul {
                     width: 120%;
                     font-size: 11px;
                 }
-                .site {
-                    margin-right: 18px;
-                }
+                .site {  margin-right: 18px; }
+    .small { font-size: 20px; }
 }
