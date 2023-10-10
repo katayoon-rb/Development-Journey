@@ -98,7 +98,24 @@ const courses = [
         },
         'Done': false
     },
-
+    {
+        'Title': 'Complete Flexbox Course',
+        'Info': 'Master CSS3 Flexbox for Good',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/flexbox-tutorial/',
+        },
+        'Done': false
+    },
+    {
+        'Title': 'Practice Python with 100 Python Exercises',
+        'Info': 'Python',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Practice-Python-with-100-Exercises',
+            'The Course': 'https://www.udemy.com/course/python-video-workbook/',
+        },
+        'Done': false
+    },
 
     // {
     //     'Title': '',
