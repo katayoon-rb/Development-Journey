@@ -116,7 +116,17 @@ const courses = [
         },
         'Done': false
     },
+    {
+        'Title': 'Understanding TypeScript',
+        'Info': 'Core types, Generics, TypeScript + React or Node',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/understanding-typescript/',
+        },
+        'Done': false
+    },
 
+    
     // {
     //     'Title': '',
     //     'Info': '',
