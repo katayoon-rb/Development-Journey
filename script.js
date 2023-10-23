@@ -96,7 +96,7 @@ const courses = [
         'Links': {
             'The Course': 'https://www.udemy.com/course/understand-nodejs/'
         },
-        'Done': true
+        'Done': false
     },
     {
         'Title': 'Complete Flexbox Course',
@@ -105,7 +105,7 @@ const courses = [
             // 'My Solutions': '',
             'The Course': 'https://www.udemy.com/course/flexbox-tutorial/',
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'Practice Python with 100 Python Exercises',
