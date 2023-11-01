@@ -114,7 +114,7 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/Practice-Python-with-100-Exercises',
             'The Course': 'https://www.udemy.com/course/python-video-workbook/',
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'Understanding TypeScript',
