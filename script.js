@@ -88,7 +88,7 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/Programming-Skills-leetcode/',
             'The Site': 'https://leetcode.com/studyplan/programming-skills/'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'Learn and Understand NodeJS',
