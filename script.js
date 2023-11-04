@@ -102,7 +102,6 @@ const courses = [
         'Title': 'Complete Flexbox Course',
         'Info': 'Master CSS3 Flexbox for Good',
         'Links': {
-            // 'My Solutions': '',
             'The Course': 'https://www.udemy.com/course/flexbox-tutorial/',
         },
         'Done': true
@@ -125,7 +124,14 @@ const courses = [
         },
         'Done': false
     },
-
+    {
+        'Title': ' Java Bootcamp',
+        'Info': 'Java fundamentals and syntax, data structures, Building Java apps, ...',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Java-Bootcamp',
+        },
+        'Done': false
+    },
     
     // {
     //     'Title': '',
