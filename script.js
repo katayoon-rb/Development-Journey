@@ -136,7 +136,7 @@ const courses = [
         'Title': 'Advanced CSS and Sass',
         'Info': 'master flexbox, CSS Grid, responsive design, and so much more.',
         'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/Advanced-CSS-and-Sass',
+            'My Solutions': 'https://katyadvcssandsass.netlify.app/',
             'The Course': 'https://www.udemy.com/course/advanced-css-and-sass/',
         },
         'Done': false
