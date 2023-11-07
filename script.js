@@ -132,6 +132,15 @@ const courses = [
         },
         'Done': false
     },
+    {
+        'Title': 'Advanced CSS and Sass',
+        'Info': 'master flexbox, CSS Grid, responsive design, and so much more.',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Advanced-CSS-and-Sass',
+            'The Course': 'https://www.udemy.com/course/advanced-css-and-sass/',
+        },
+        'Done': false
+    },
     
     // {
     //     'Title': '',
