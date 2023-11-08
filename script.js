@@ -61,7 +61,7 @@ const courses = [
             'My Solutions': 'https://katy100dayscss.netlify.app/',
             'The Site': 'https://100dayscss.com/'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'Frontend Mentor Challenges',
