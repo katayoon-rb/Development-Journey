@@ -25,7 +25,7 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/CS50x-Course',
             'The Course': 'https://shorturl.at/dnvzA'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'CS50p Harvard',
