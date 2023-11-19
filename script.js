@@ -141,6 +141,15 @@ const courses = [
         },
         'Done': false
     },
+    {
+        'Title': '30 Days of JavaScript Leetcode',
+        'Info': 'JavaScript',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/30-Days-of-JavaScript-leetcode',
+            'The Site': 'https://leetcode.com/studyplan/30-days-of-javascript/'
+        },
+        'Done': false
+    },
     
     // {
     //     'Title': '',
