@@ -116,15 +116,6 @@ const courses = [
         'Done': true
     },
     {
-        'Title': 'Understanding TypeScript',
-        'Info': 'Core types, Generics, TypeScript + React or Node',
-        'Links': {
-            // 'My Solutions': '',
-            'The Course': 'https://www.udemy.com/course/understanding-typescript/',
-        },
-        'Done': false
-    },
-    {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, Building Java apps, ...',
         'Links': {
@@ -150,6 +141,17 @@ const courses = [
         },
         'Done': false
     },
+
+    
+    // {
+    //     'Title': 'Understanding TypeScript',
+    //     'Info': 'Core types, Generics, TypeScript + React or Node',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/understanding-typescript/',
+    //     },
+    //     'Done': false
+    // },
     
     // {
     //     'Title': '',
