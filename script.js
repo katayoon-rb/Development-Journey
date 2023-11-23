@@ -130,7 +130,7 @@ const courses = [
             'My Solutions': 'https://katyadvcssandsass.netlify.app/',
             'The Course': 'https://www.udemy.com/course/advanced-css-and-sass/',
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': '30 Days of JavaScript Leetcode',
