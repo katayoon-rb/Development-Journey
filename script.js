@@ -139,19 +139,17 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/30-Days-of-JavaScript-leetcode',
             'The Site': 'https://leetcode.com/studyplan/30-days-of-javascript/'
         },
+        'Done': true
+    },
+    {
+        'Title': 'Understanding TypeScript',
+        'Info': 'Core types, Generics, TypeScript + React or Node',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Understanding-TypeScript',
+            'The Course': 'https://www.udemy.com/course/understanding-typescript/',
+        },
         'Done': false
     },
-
-    
-    // {
-    //     'Title': 'Understanding TypeScript',
-    //     'Info': 'Core types, Generics, TypeScript + React or Node',
-    //     'Links': {
-    //         // 'My Solutions': '',
-    //         'The Course': 'https://www.udemy.com/course/understanding-typescript/',
-    //     },
-    //     'Done': false
-    // },
     
     // {
     //     'Title': '',
