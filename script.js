@@ -150,6 +150,15 @@ const courses = [
         },
         'Done': true
     },
+    {
+        'Title': 'Automate the Boring Stuff with Python',
+        'Info': 'A practical programming course for who want to improve their productivity.',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Automate-Boring-Stuff-with-Python',
+            'The Course': 'https://www.udemy.com/course/automate/',
+        },
+        'Done': false
+    },
     
     // {
     //     'Title': '',
