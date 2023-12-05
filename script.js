@@ -145,10 +145,10 @@ const courses = [
         'Title': 'Understanding TypeScript',
         'Info': 'Core types, Generics, TypeScript + React or Node',
         'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/Understanding-TypeScript',
+            'My Solutions': 'https://katyundrestandingts.netlify.app/',
             'The Course': 'https://www.udemy.com/course/understanding-typescript/',
         },
-        'Done': false
+        'Done': true
     },
     
     // {
