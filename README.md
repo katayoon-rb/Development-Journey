@@ -14,51 +14,112 @@ This portfolio documents my experiences, projects, and the skills I've acquired 
 
 These are some of the skills I've developed and technologies I've worked with:
 
-- HTML5, CSS3, JavaScript
+- HTML and CSS
+- SCSS (Sass)
+- C
+- JavaScript
+- Python
+- Java
 - Responsive Web Design
-- Front-end frameworks: React, Angular, Vue
-- CSS pre-processors: Sass, Less
-- Version Control: Git, GitHub
-- Build Tools: Webpack, Babel
-- ... (Add any additional skills)
+- React
+- TypeScript
+- Git and GitHub
+- SQL
 
 
 ## Learning Path 📚
 
 Documenting my learning path helps me reflect on my progress and stay organized. Here's an outline of my journey:
 
-1. **Introduction to Front-End Development**
-   - Learning HTML, CSS, and basic JavaScript.
-   - Building static web pages.
+1. **Frontend Path Scrimba**
+   - CSS
+   - JavaScript
+   - Responsive Design
+   - Code review
+   - UI Design
+   - React
 
-2. **Deep Dive into JavaScript**
-   - Exploring ES6 features.
-   - Understanding asynchronous JavaScript.
+2. **The Modern JavaScript Tutorial By Ilya Kantor**
+   - All 3 Editions
+   - JavaScript
 
-3. **Front-End Frameworks**
-   - Learning React.js fundamentals.
-   - Building projects with React.
+3. **CS50x Harvard**
+   - Scratch
+   - C
+   - Python
+   - SQL
+   - Data Structures
+   - HTML/CSS
+   - Flask
 
-4. **Responsive Web Design**
-   - Implementing media queries.
-   - Using Flexbox and Grid for layouts.
+4. **CS50p Harvard**
+   - Python
+  
+5. **CS50ai Harvard**
+   - Artificial Intelligence
+     
+6. **50 Projects In 50 Days**
+   - HTML/CSS
+   - JavaScript
+     
+7. **Java Bootcamp**
+   - Java fundamentals and syntax
+   - Data structures
+   - Building Java apps
+   - ...
+     
+8. **Advanced CSS and Sass**
+   - Flexbox
+   - CSS Grid
+   - Responsive Design
+     
+9. **Understanding TypeScript**
+   - Core types
+   - Generics
+   - TypeScript + React
+   - TypeScript + Node
+      
+10. **Automate the Boring Stuff with Python**
+   - Python
+      
+11. **Learn and Understand NodeJS**
+   - NodeJS
+   - V8
+   - Express
+   - the MEAN stack
+   - Core Javascript concepts
+     
+12. **Complete Flexbox Course**
+    - Flexbox in CSS
 
-... (Continue with your learning milestones)
+13. **Practice Python with 100 Python Exercises**
+    - Python
+
+... 
 
 
 ## Challenges 🤔
 
 Documenting challenges and how I overcame them is crucial to my learning process. Here are some notable challenges:
 
-1. **Cross-browser Compatibility**
-   - Faced issues with Internet Explorer compatibility.
-   - Researched and implemented solutions.
+1. **100 Days CSS Challenge**
+   - HTML/CSS
+   - JavaScript
+     
+2. **Frontend Mentor Challenges**
+   - HTML/CSS
+   - JavaScript
+     
+3. **CSS Battle**
+   - HTML/CSS
+     
+4. **Programming Skills Leetcode**
+   - JavaScript
+      
+5. **30 Days of JavaScript Leetcode**
+   - JavaScript
 
-2. **Project Deployment**
-   - Encountered challenges deploying projects to hosting platforms.
-   - Explored different hosting services and documented the process.
-
-... (Include any challenges you faced)
+...
 
 
 ## Acknowledgments 🙏
@@ -72,4 +133,3 @@ Feel free to explore the folders and dive into the details of each project. Your
 Happy coding! 🌐💻
 
 Katayoon Rabbani
-linkedin.com/in/katayoon-rabbani-472005213/
