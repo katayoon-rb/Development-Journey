@@ -80,14 +80,14 @@ Documenting my learning path helps me reflect on my progress and stay organized.
    - TypeScript + Node
       
 10. **Automate the Boring Stuff with Python**
-   - Python
+    - Python
       
 11. **Learn and Understand NodeJS**
-   - NodeJS
-   - V8
-   - Express
-   - the MEAN stack
-   - Core Javascript concepts
+    - NodeJS
+    - V8
+    - Express
+    - the MEAN stack
+    - Core Javascript concepts
      
 12. **Complete Flexbox Course**
     - Flexbox in CSS
