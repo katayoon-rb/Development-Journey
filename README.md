@@ -95,6 +95,15 @@ Documenting my learning path helps me reflect on my progress and stay organized.
 13. **Practice Python with 100 Python Exercises**
     - Python
 
+14. **Python and Django Full Stack Bootcamp**:
+    - HTML/CSS
+    - JavaScript
+    - Jquery
+    - Bootstrap
+    - Python
+    - Django
+    - ...
+        
 ... 
 
 
