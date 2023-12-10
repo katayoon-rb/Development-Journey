@@ -25,6 +25,9 @@ These are some of the skills I've developed and technologies I've worked with:
 - TypeScript
 - Git and GitHub
 - SQL
+- Jquery
+- Bootstrap
+- Django
 
 
 ## Learning Path 📚
