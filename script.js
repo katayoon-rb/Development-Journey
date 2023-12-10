@@ -163,7 +163,7 @@ const courses = [
         'Title': 'Python and Django Full Stack Bootcamp',
         'Info': 'HTML/CSS, JS, Jquery, Bootstrap, Python, Django, ...',
         'Links': {
-            // 'My Solutions': '',
+            'My Solutions': 'https://github.com/katayoon-rb/Python-and-Django-Full-Stack-Bootcamp',
             'The Course': 'https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/',
         },
         'Done': false
