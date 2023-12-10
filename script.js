@@ -154,8 +154,17 @@ const courses = [
         'Title': 'Automate the Boring Stuff with Python',
         'Info': 'Python',
         'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/Automate-Boring-Stuff-with-Python',
+            'The Book': 'https://automatetheboringstuff.com/',
             'The Course': 'https://www.udemy.com/course/automate/',
+        },
+        'Done': true
+    },
+    {
+        'Title': 'Python and Django Full Stack Bootcamp',
+        'Info': 'HTML/CSS, JS, Jquery, Bootstrap, Python, Django, ...',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/',
         },
         'Done': false
     },
