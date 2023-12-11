@@ -28,6 +28,7 @@ These are some of the skills I've developed and technologies I've worked with:
 - Jquery
 - Bootstrap
 - Django
+- C++
 
 
 ## Learning Path 📚
@@ -106,6 +107,23 @@ Documenting my learning path helps me reflect on my progress and stay organized.
     - Python
     - Django
     - ...
+   
+15. **MichiganX: Web Application Technologies and Django**:
+    - Basics of HTTP
+    - DJango app
+    - HTML/CSS
+    - Basic operations in SQL
+
+16. **W3Cx: JavaScript Introduction**:
+    - JavaScript
+    - Interactive Web sites
+    - HTML5/CSS from JS
+    - HTML5 forms
+    - Animations
+   
+17. **IBM: Fundamentals of C++**:
+    - C++ programming language
+    - Implement array and pointer-based scenarios
         
 ... 
 
