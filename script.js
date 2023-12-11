@@ -74,7 +74,7 @@ const courses = [
     },
     {
         'Title': 'CSS Battle',
-        'Info': 'HTML & CSS',
+        'Info': 'Daily Targets & Battles - HTML & CSS',
         'Links': {
             'My Solutions': 'https://katycssbattle.netlify.app/',
             'The Site': 'https://cssbattle.dev/'
