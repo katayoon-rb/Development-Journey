@@ -168,6 +168,33 @@ const courses = [
         },
         'Done': false
     },
+    {
+        'Title': 'MichiganX: Web Application Technologies and Django',
+        'Info': 'Basics of HTTP, DJango app, HTML/CSS, Basic operations in SQL',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.edx.org/learn/django/the-university-of-michigan-web-application-technologies-and-django',
+        },
+        'Done': false
+    },
+    {
+        'Title': 'W3Cx: JavaScript Introduction',
+        'Info': 'JavaScript, Interactive Web sites, HTML5/CSS from JS, HTML5 forms, Animations',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.edx.org/learn/javascript/the-world-wide-web-consortium-w3c-javascript-introduction',
+        },
+        'Done': false
+    },
+    {
+        'Title': 'IBM: Fundamentals of C++',
+        'Info': 'C++ programming language, Implement array and pointer-based scenarios',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.edx.org/learn/c-programming/ibm-fundamentals-of-c',
+        },
+        'Done': false
+    },
     
     // {
     //     'Title': '',
