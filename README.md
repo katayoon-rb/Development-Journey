@@ -106,7 +106,10 @@ Documenting my learning path helps me reflect on my progress and stay organized.
     - Python
     - Django
     - ...
-        
+
+15. **'Title': 'TypeScript for Professionals**:
+    - TypeScript
+   
 ... 
 
 
