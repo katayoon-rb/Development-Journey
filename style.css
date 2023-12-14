@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Oswald', sans-serif;
-    margin: 0;
+    margin: 75px 0;
     height: 120vh;
     overflow: hidden;
 
@@ -15,8 +15,8 @@ body {
     flex-direction: column;
     align-items: center;
 
-    background-image: url(bg.png);
-    background-size: cover;
+    background-image: url(bg\ -\ Copy.png);
+    background-size: contain;
     background-repeat: repeat-y;
     overflow-y: scroll;
 
@@ -24,10 +24,9 @@ body {
     margin-top: 75px;
 }
 
-
 .name {
     font-family: 'Dancing Script', cursive;
-    font-size: 32px;
+    font-size: 55px;
     font-weight: 700;
 
     text-align: center;
@@ -36,74 +35,82 @@ body {
     text-shadow: -2px 2px 5px #8fb1b1;
 }
 .title {
-    font-size: 18px;
+    font-size: 25px;
     font-weight: 400;
     text-align: center;
+}
+.headline {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+
+    color: #5c4d47;
+    margin: 0 150px 30px;
+    border-bottom: 1px solid;
+}
+
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-start;
+
+    width: 100vw;
 }
 
 
 ul {
     background: #fff;
-    margin: 30px auto;
+    margin: 40px 25px;
     padding: 15px 0;
 
     list-style: none;
-
-    width: 90vw;
     position: relative;
 
     border-radius: 15px;
     box-shadow: 0 0 10px -2px #1b1a1995;
 }
 
-    li {
-        display: flex !important;
-        justify-content: center;
+    .item {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
         align-items: center;
-        justify-content: center;
 
         border-bottom: 1px solid #455353;
-
-        height: 100px;
-        padding: 30px 0;
+        padding: 25px 30px;
     }
-
-        .bullet{
-            content: url(bullet.png);
-            width: 15px;
-            margin-right: 3px;
-            
-            position: absolute;
-            left: 5vw;
+        .item:last-child { border-bottom: none; }
+        .BTWrap {
+            align-self: flex-start;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
-        
+            .bullet{
+                content: url(bullet.png);
+                width: 20px;
+                margin-right: 10px;
+            }
+
         .wrap {
-            display: flex;
-            flex-direction: column;
-
-            position: absolute;
-            left: 12vw;
+            max-width: 250px;
+            margin-right: 25px;
         }
-            .wrap span { font-size: 19px; max-width: 175px; }
-            p { font-size: 13px; width: 40vw; }
+            .wrap span { font-size: 19px; }
+            .wrap p { font-size: 13px; margin-top: 10px; }
 
-        .buttons {
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
 
-            position: absolute;
-            right: 5vw;
-
-            width: 25vw;
-            margin-bottom: 8px;
-        }
+        a { color: transparent; }
+        .buttons { display: flex; }
             button {
                 cursor: pointer;
                 background-color: #dfe2bc;
+                width: 120px;
 
-                height: 35px;
-                width: 100%;
+                padding: 8px 23px;
+                margin: 15px 5px;
 
                 color: #3b3632;
                 font-size: 11px;
@@ -112,54 +119,40 @@ ul {
                 border: 1px solid #887a71;
                 border-radius: 20px;
             }
-                .sec { margin-top: 5px; }
 
 
-.done { background-color: #bbbf978d; }
-    .done .bullet { content: url(donebullet.png); }
-    .done .wrap { color: #9d8e83; }
-    .done button { background-color: #bdc0a085; color: #3b363282; }
+.finished ul { background-color: #D9DBC5; }
+    .finished .bullet { content: url(donebullet.png); }
+    .finished .wrap { color: #9d8e83; }
+    .finished button { background-color: #bdc0a085; color: #3b363282; }
 
-.small { font-size: 17px; }
+.small { font-size: 20px; }
 
 
-@media (min-width: 850px) {
+
+@media (max-width: 600px) {
     body {
-        background-image: url(bg\ -\ Copy.png);
-        background-size: contain;
-        margin: 75px 0;
+        background-image: url(bg.png);
+        background-size: cover;
+        margin: 50px 0;
     }
-    .name { font-size: 55px; }
-    .title { font-size: 25px; }
-    ul { margin: 45px 0; width: 70vw; }
-        .bullet{ width: 20px; left: 3vw; }
-        .wrap { left: 5.75vw; }
-            span { font-size: 20px; }
-        .buttons {
-            flex-direction: row;
-            align-items: center;
-            justify-content: flex-end;
 
-            right: 30px;
-            width: 30%;
-            margin: 0;
-        }
-            button {
-                height: 30px;
-                width: 100px;
-                font-size: 11px;
-                margin-right: 5px;
-            }
-            .sec { margin-top: 0; }
-    .small { font-size: 20px; }
+    .name { font-size: 34px; }
+    .title { font-size: 18px; }
+    .headline {
+        font-size: 25px;
+        margin: 0 100px 10px;
+    }
 
-    .wrap span { max-width: 250px; }
-}
+    .wrapper { flex-direction: column; }
 
+    ul { margin: 40px 25px; padding: 15px 0; }
+        .item { padding: 25px 20px; align-items: center; }
+            .BTWrap { margin: auto 0; }
+                .bullet{ width: 17px; margin-right: 15px; }
 
-@media (min-width: 1200px) {
-    ul { width: 60vw; }
-    p { width: 350px; }
-    button { width: 150px; }
-    .wrap span { max-width: 350px; }
+            .buttons { flex-direction: column; }
+                button { margin: 5px 0; }
+
+    .small { font-size: 17px; }
 }
