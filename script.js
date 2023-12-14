@@ -172,10 +172,9 @@ const courses = [
         'Title': 'TypeScript for Professionals',
         'Info': 'The TypeScript type system - taught by a Microsoft MVP',
         'Links': {
-            // 'My Solutions': '',
             'The Course': 'https://www.udemy.com/course/typescript-for-professionals/',
         },
-        'Done': false
+        'Done': true
     },
     
     // {
