@@ -27,7 +27,6 @@ These are some of the skills I've developed and technologies I've worked with:
 - SQL
 - Jquery
 - Bootstrap
-- Django
 
 
 ## Learning Path 📚
@@ -104,8 +103,6 @@ Documenting my learning path helps me reflect on my progress and stay organized.
     - Jquery
     - Bootstrap
     - Python
-    - Django
-    - ...
 
 15. **'Title': 'TypeScript for Professionals**:
     - TypeScript
