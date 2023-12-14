@@ -212,6 +212,15 @@ const courses = [
         },
         'Done': false
     },
+    {
+        'Title': 'The Python Bible',
+        'Info': 'Build 11 Projects and go from Beginner to Pro in Python',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/the-python-bible/',
+        },
+        'Done': false
+    },
     
     // {
     //     'Title': '',
