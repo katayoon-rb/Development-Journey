@@ -120,6 +120,9 @@ Documenting my learning path helps me reflect on my progress and stay organized.
   
 19. **Tailwind CSS - Zero to Hero tailwind css**:
     - Tailwind
+      
+20. **The Python Bible**:
+    - Python
    
 ... 
 
