@@ -176,6 +176,42 @@ const courses = [
         },
         'Done': true
     },
+    {
+        'Title': 'JavaScript – The Tricky Parts',
+        'Info': 'Dive into the most tricky parts of JavaScript to ensure you fully understand it!',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://pro.academind.com/p/javascript-the-tricky-parts',
+        },
+        'Done': false
+    },
+    {
+        'Title': 'React & TypeScript - The Practical Guide',
+        'Info': 'Build React apps & use TypeScript to enhance your code.',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
+        },
+        'Done': false
+    },
+    {
+        'Title': 'Tailwind CSS : A Modern Way To Build Websites Using CSS',
+        'Info': 'Learn Tailwind by building a fully responsive real estate portal & interactive dashboard.',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/tailwind-css-course/',
+        },
+        'Done': false
+    },
+    {
+        'Title': 'Tailwind CSS - Zero to Hero tailwind css',
+        'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
+        },
+        'Done': false
+    },
     
     // {
     //     'Title': '',
