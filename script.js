@@ -1,4 +1,4 @@
-const container = document.getElementById('container')
+const container = document.querySelectorAll('#container')
 
 const courses = [
     {
@@ -204,20 +204,21 @@ courses.forEach(course => {
         `
     })
 
-    container.innerHTML += `
-        <li class="item ${course['Done'] ? `done`: ''}">
-            <div class="bullet"></div>
-            <div class="wrap">
-                <span>${course['Title']}</span>
-                <p>${course['Info']}</p>
+    let courseCode = `
+        <li class="item">
+            <div class="BTWrap">
+                <div class="bullet"></div>
+                <div class="wrap">
+                    <span>${course['Title']}</span>
+                    <p>${course['Info']}</p>
+                </div>
             </div>
             <div class="buttons ${Object.keys(links).length == 1 ? `one-btn`: ''}">
                     ${buttons}
             </div>
         </li>
     `
+
+    if (course['Done']) { container[1].innerHTML += courseCode }
+    else { container[0].innerHTML += courseCode }
 })
-
-
-const items = document.querySelectorAll('.item')
-items[items.length - 1].style.border = 'none'
