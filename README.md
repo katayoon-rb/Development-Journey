@@ -27,6 +27,7 @@ These are some of the skills I've developed and technologies I've worked with:
 - SQL
 - Jquery
 - Bootstrap
+- Tailwind
 
 
 ## Learning Path 📚
@@ -104,8 +105,21 @@ Documenting my learning path helps me reflect on my progress and stay organized.
     - Bootstrap
     - Python
 
-15. **'Title': 'TypeScript for Professionals**:
+15. **TypeScript for Professionals**:
     - TypeScript
+      
+16. **JavaScript – The Tricky Parts**:
+    - JavaScript
+      
+17. **React & TypeScript - The Practical Guide**:
+    - React
+    - TypeScript
+  
+18. **Tailwind CSS : A Modern Way To Build Websites Using CSS**:
+    - Tailwind
+  
+19. **Tailwind CSS - Zero to Hero tailwind css**:
+    - Tailwind
    
 ... 
 
