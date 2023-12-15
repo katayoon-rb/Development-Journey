@@ -267,3 +267,15 @@ courses.forEach(course => {
     if (course['Done']) { container[1].innerHTML += courseCode }
     else { container[0].innerHTML += courseCode }
 })
+
+
+fetch('https://github.com/users/katayoon-rb/contributions')
+    .then(response => response.text() })
+    .then(html => {
+        var parser = new DOMParser()
+        var doc = parser.parseFromString(html, "text/html")
+        console.log(doc)
+    })
+    .catch(err => {  
+        console.log('Failed to fetch page: ', err)
+    })
