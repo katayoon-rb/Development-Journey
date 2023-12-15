@@ -26,15 +26,15 @@
         </div>
         
         <script>
-            GitHubCalendar(".calendar", "your-username");
+            // GitHubCalendar(".calendar", "your-username");
         
-            // or enable responsive functionality:
-            GitHubCalendar(".calendar", "your-username", { responsive: true });
+            // // or enable responsive functionality:
+            // GitHubCalendar(".calendar", "your-username", { responsive: true });
         
-            // Use a proxy
+            // // Use a proxy
             GitHubCalendar(".calendar", "katayoon-rb", {
                proxy (username) {
-                 return fetch(`https://your-proxy.com/github?user=${your-username}`)
+                 return fetch(`https://your-proxy.com/github?user=${username}`)
                }
             }).then(r => r.text())
         </script>
