@@ -184,42 +184,42 @@ const courses = [
         },
         'Done': false
     },
-    {
-        'Title': 'React & TypeScript - The Practical Guide',
-        'Info': 'Build React apps & use TypeScript to enhance your code.',
-        'Links': {
-            // 'My Solutions': '',
-            'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
-        },
-        'Done': false
-    },
-    {
-        'Title': 'Tailwind CSS : A Modern Way To Build Websites Using CSS',
-        'Info': 'Learn Tailwind by building a fully responsive real estate portal & interactive dashboard.',
-        'Links': {
-            // 'My Solutions': '',
-            'The Course': 'https://www.udemy.com/course/tailwind-css-course/',
-        },
-        'Done': false
-    },
-    {
-        'Title': 'Tailwind CSS - Zero to Hero tailwind css',
-        'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
-        'Links': {
-            // 'My Solutions': '',
-            'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
-        },
-        'Done': false
-    },
-    {
-        'Title': 'The Python Bible',
-        'Info': 'Build 11 Projects and go from Beginner to Pro in Python',
-        'Links': {
-            // 'My Solutions': '',
-            'The Course': 'https://www.udemy.com/course/the-python-bible/',
-        },
-        'Done': false
-    },
+    // {
+    //     'Title': 'React & TypeScript - The Practical Guide',
+    //     'Info': 'Build React apps & use TypeScript to enhance your code.',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
+    //     },
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'Tailwind CSS : A Modern Way To Build Websites Using CSS',
+    //     'Info': 'Learn Tailwind by building a fully responsive real estate portal & interactive dashboard.',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/tailwind-css-course/',
+    //     },
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'Tailwind CSS - Zero to Hero tailwind css',
+    //     'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
+    //     },
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'The Python Bible',
+    //     'Info': 'Build 11 Projects and go from Beginner to Pro in Python',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/the-python-bible/',
+    //     },
+    //     'Done': false
+    // },
     {
         'Title': 'Top Interview 150 Leetcode',
         'Info': 'Covers comprehensive interview topics',
