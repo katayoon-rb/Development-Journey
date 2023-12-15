@@ -147,6 +147,9 @@ Documenting challenges and how I overcame them is crucial to my learning process
       
 5. **30 Days of JavaScript Leetcode**
    - JavaScript
+     
+6.  **Top Interview 150 Leetcode**
+   - Covers comprehensive interview topics
 
 ...
 
