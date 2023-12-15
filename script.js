@@ -270,7 +270,7 @@ courses.forEach(course => {
 
 
 fetch('https://github.com/users/katayoon-rb/contributions', {
-    Method: 'GET',
+    Method: GET,
     headers: {
         'Host': 'https://github.com',
         'Origin': 'katayoonrabbani.netlify.app',
