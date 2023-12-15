@@ -270,7 +270,7 @@ courses.forEach(course => {
 
 
 fetch('https://github.com/users/katayoon-rb/contributions')
-    .then(response => response.text() })
+    .then(response => response.text() )
     .then(html => {
         var parser = new DOMParser()
         var doc = parser.parseFromString(html, "text/html")
