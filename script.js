@@ -9,9 +9,13 @@ const courses = [
     //         'The Site': '',
     //         'The Book': ''
     //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
     //     'Done': false
     // },
-
+    
     
     {
         'Title': 'Top Interview 150 Leetcode',
@@ -19,6 +23,10 @@ const courses = [
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/Top-Interview-150-Leetcode',
             'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
+        },
+        'Date': {
+            'Start': '15 Dec, 2023',
+            'End': '...'
         },
         'Done': false
     },
@@ -29,6 +37,10 @@ const courses = [
     //         // 'My Solutions': '',
     //         'The Course': 'https://www.udemy.com/course/the-python-bible/',
     //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
     //     'Done': false
     // },
     // {
@@ -38,57 +50,85 @@ const courses = [
     //         // 'My Solutions': '',
     //         'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
     //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
     //     'Done': false
     // },
     {
-        'Title': 'Tailwind CSS: A Modern Way To Build Websites Using CSS',
-        'Info': 'Learn Tailwind by building a fully responsive real estate portal & interactive dashboard.',
+        'Title': 'Tailwind CSS',
+        'Info': 'Learn Tailwind by building projects.',
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/Tailwind-CSS',
             'The Course': 'https://www.udemy.com/course/tailwind-css-course/',
+        },
+        'Date': {
+            'Start': '15 Dec',
+            'End': '...'
         },
         'Done': false
     },
     // {
     //     'Title': 'React & TypeScript - The Practical Guide',
-    //     'Info': 'Build React apps & use TypeScript to enhance your code.',
+    //     'Info': 'Build React apps & use TypeScript to enhance it.',
     //     'Links': {
     //         // 'My Solutions': '',
     //         'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
+    //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
     //     },
     //     'Done': false
     // },
     {
         'Title': 'JavaScript – The Tricky Parts',
-        'Info': 'Dive into the most tricky parts of JavaScript to ensure you fully understand it!',
+        'Info': 'The most tricky parts of JavaScript.',
         'Links': {
             'The Course': 'https://pro.academind.com/p/javascript-the-tricky-parts',
+        },
+        'Date': {
+            'Start': '14 Dec',
+            'End': '...'
         },
         'Done': false
     },
     {
         'Title': 'TypeScript for Professionals',
-        'Info': 'The TypeScript type system - taught by a Microsoft MVP',
+        'Info': 'The TypeScript type system',
         'Links': {
             'The Course': 'https://www.udemy.com/course/typescript-for-professionals/',
+        },
+        'Date': {
+            'Start': '13 Dec',
+            'End': '14 Dec, 2023'
         },
         'Done': true
     },
     {
-        'Title': 'Python and Django Full Stack Bootcamp',
+        'Title': 'Python and Django Full Stack',
         'Info': 'HTML/CSS, JS, Jquery, Bootstrap, Python',
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/Python-and-Django-Full-Stack-Bootcamp',
             'The Course': 'https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/',
         },
+        'Date': {
+            'Start': '10 Dec',
+            'End': '14 Dec, 2023'
+        },
         'Done': true
     },
     {
-        'Title': 'Automate the Boring Stuff with Python',
+        'Title': 'Automate Boring Stuff with Python',
         'Info': 'Python',
         'Links': {
             'The Book': 'https://automatetheboringstuff.com/',
             'The Course': 'https://www.udemy.com/course/automate/',
+        },
+        'Date': {
+            'Start': '5 Dec',
+            'End': '10 Dec, 2023'
         },
         'Done': true
     },
@@ -99,6 +139,10 @@ const courses = [
             'My Solutions': 'https://katyundrestandingts.netlify.app/',
             'The Course': 'https://www.udemy.com/course/understanding-typescript/',
         },
+        'Date': {
+            'Start': '25 Nov',
+            'End': '4 Dec, 2023'
+        },
         'Done': true
     },
     {
@@ -108,31 +152,47 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/30-Days-of-JavaScript-leetcode',
             'The Site': 'https://leetcode.com/studyplan/30-days-of-javascript/'
         },
+        'Date': {
+            'Start': '19 Nov',
+            'End': '23 Nov, 2023'
+        },
         'Done': true
     },
     {
         'Title': 'Advanced CSS and Sass',
-        'Info': 'master flexbox, CSS Grid, responsive design, and so much more.',
+        'Info': 'master flexbox, CSS Grid, responsive design, & ...',
         'Links': {
             'My Solutions': 'https://katyadvcssandsass.netlify.app/',
             'The Course': 'https://www.udemy.com/course/advanced-css-and-sass/',
+        },
+        'Date': {
+            'Start': '7 Nov',
+            'End': '23 Nov, 2023'
         },
         'Done': true
     },
     {
         'Title': ' Java Bootcamp',
-        'Info': 'Java fundamentals and syntax, data structures, Building Java apps, ...',
+        'Info': 'Java fundamentals and syntax, data structures, & ...',
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/Java-Bootcamp',
+        },
+        'Date': {
+            'Start': '3 Nov, 2023',
+            'End': '...'
         },
         'Done': false
     },
     {
-        'Title': 'Practice Python with 100 Python Exercises',
+        'Title': 'Python with 100 Python Exercises',
         'Info': 'Python',
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/Practice-Python-with-100-Exercises',
             'The Course': 'https://www.udemy.com/course/python-video-workbook/',
+        },
+        'Date': {
+            'Start': '24 Oct',
+            'End': '1 Nov, 2023'
         },
         'Done': true
     },
@@ -142,13 +202,20 @@ const courses = [
         'Links': {
             'The Course': 'https://www.udemy.com/course/flexbox-tutorial/',
         },
+        'Date': {
+            'Start': '23 Oct, 2023'
+        },
         'Done': true
     },
     {
         'Title': 'Learn and Understand NodeJS',
-        'Info': 'NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts.',
+        'Info': 'NodeJS. Learn V8, Express & ...',
         'Links': {
             'The Course': 'https://www.udemy.com/course/understand-nodejs/'
+        },
+        'Date': {
+            'Start': '13 Sep',
+            'End': '1 Nov, 2023'
         },
         'Done': true
     },
@@ -159,14 +226,22 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/Programming-Skills-leetcode/',
             'The Site': 'https://leetcode.com/studyplan/programming-skills/'
         },
+        'Date': {
+            'Start': '12 Oct',
+            'End': '1 Nov, 2023'
+        },
         'Done': true
     },
     {
         'Title': 'CSS Battle',
-        'Info': 'Daily Targets & Battles - HTML & CSS',
+        'Info': 'Daily Targets & Battles - HTML/CSS',
         'Links': {
             'My Solutions': 'https://katycssbattle.netlify.app/',
             'The Site': 'https://cssbattle.dev/'
+        },
+        'Date': {
+            'Start': '9 Oct',
+            'End': '...'
         },
         'Done': false
     },
@@ -177,6 +252,10 @@ const courses = [
             'My Solutions': 'https://katyfrontendmentorchallenges.netlify.app/',
             'The Site': 'https://shorturl.at/xyzP1'
         },
+        'Date': {
+            'Start': '6 Oct',
+            'End': '...'
+        },
         'Done': false
     },
     {
@@ -185,6 +264,10 @@ const courses = [
         'Links': {
             'My Solutions': 'https://katy100dayscss.netlify.app/',
             'The Site': 'https://100dayscss.com/'
+        },
+        'Date': {
+            'Start': '7 Oct',
+            'End': '8 Nov, 2023'
         },
         'Done': true
     },
@@ -195,6 +278,10 @@ const courses = [
             'My Solutions': 'https://katy50projects50days.netlify.app/',
             'The Course': 'https://www.udemy.com/course/50-projects-50-days/'
         },
+        'Date': {
+            'Start': '5 Sep',
+            'End': '6 Oct, 2023'
+        },
         'Done': true
     },
     {
@@ -203,6 +290,10 @@ const courses = [
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/CS50ai-Course',
             'The Course': 'https://shorturl.at/dkQZ9'
+        },
+        'Date': {
+            'Start': '29 Sep, 2023',
+            'End': '...'
         },
         'Done': false
     },
@@ -213,31 +304,46 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/CS50p-Course',
             'The Course': 'https://shorturl.at/ksOSU'
         },
-        'Done': true
-    },
-    {
-        'Title': 'CS50x Harvard',
-        'Info': 'Scratch, C, Python, SQL, Data Structures, HTML/CSS & Flask',
-        'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/CS50x-Course',
-            'The Course': 'https://shorturl.at/dnvzA'
+        'Date': {
+            'Start': '1 Sep',
+            'End': '13 Dec, 2023'
         },
         'Done': true
     },
     {
-        'Title': 'The Modern JavaScript Tutorial By Ilya Kantor',
+        'Title': 'CS50x Harvard',
+        'Info': 'Scratch, C, Python, SQL, HTML/CSS & Flask',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/CS50x-Course',
+            'The Course': 'https://shorturl.at/dnvzA'
+        },
+        'Date': {
+            'Start': '24 Jul',
+            'End': '14 Nov, 2023'
+        },
+        'Done': true
+    },
+    {
+        'Title': 'The Modern JavaScript Tutorial',
         'Info': 'All 3 Editions - JavaScript',
         'Links': {
             'The Book': 'https://javascript.Info/'
+        },
+        'Date': {
+            'Start': 'Through 2022'
         },
         'Done': true
     },
     {
         'Title': 'Frontend Path Scrimba',
-        'Info': 'CSS, Js, Responsive Design Code review, UI Design, React',
+        'Info': 'CSS, Js, Responsive Design, UI Design, React',
         'Links': {
             'My Solutions': 'https://katayoon-rb.github.io/Fronend-Path-Scrimba/',
             'The Course': 'https://scrimba.com/learn/frontend'
+        },
+        'Date': {
+            'Start': '19 March',
+            'End': '14 Oct, 2022'
         },
         'Done': true
     }
@@ -258,12 +364,16 @@ courses.forEach(course => {
         `
     })
 
+    let courseDate = course['Date']
+    let duration = courseDate['End'] ? courseDate['Start'] + ' - ' + courseDate['End'] : courseDate['Start']
+
     let courseCode = `
         <li class="item">
             <div class="BTWrap">
                 <div class="bullet"></div>
                 <div class="wrap">
                     <span>${course['Title']}</span>
+                    <p class="duration">${duration}</p>
                     <p>${course['Info']}</p>
                 </div>
             </div>
