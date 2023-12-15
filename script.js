@@ -269,7 +269,12 @@ courses.forEach(course => {
 })
 
 
-fetch('https://github.com/users/katayoon-rb/contributions')
+fetch('https://github.com/users/katayoon-rb/contributions', {
+    mode: 'cors',
+    headers: {
+        'Access-Control-Allow-Origin': '*'
+    }
+})
     .then(response => response.text() )
     .then(html => {
         var parser = new DOMParser()
