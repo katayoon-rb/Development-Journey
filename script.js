@@ -180,7 +180,6 @@ const courses = [
         'Title': 'JavaScript – The Tricky Parts',
         'Info': 'Dive into the most tricky parts of JavaScript to ensure you fully understand it!',
         'Links': {
-            // 'My Solutions': '',
             'The Course': 'https://pro.academind.com/p/javascript-the-tricky-parts',
         },
         'Done': false
@@ -218,6 +217,15 @@ const courses = [
         'Links': {
             // 'My Solutions': '',
             'The Course': 'https://www.udemy.com/course/the-python-bible/',
+        },
+        'Done': false
+    },
+    {
+        'Title': 'Top Interview 150 Leetcode',
+        'Info': 'Covers comprehensive interview topics',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Top-Interview-150-Leetcode',
+            'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
         },
         'Done': false
     },
