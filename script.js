@@ -270,9 +270,10 @@ courses.forEach(course => {
 
 
 fetch('https://github.com/users/katayoon-rb/contributions', {
-    mode: 'cors',
+    Method: 'GET',
     headers: {
-        'Access-Control-Allow-Origin': '*'
+        Host: 'katayoonrabbani.netlify.app',
+        Origin: 'https://github.com'
     }
 })
     .then(response => response.text() )
