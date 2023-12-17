@@ -39,7 +39,7 @@ const courses = [
             'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
         },
         'Date': {
-            'Start': '15 Dec, 2023',
+            'Start': '15 Dec',
             'End': '...'
         },
         'Done': false
@@ -93,7 +93,7 @@ const courses = [
             'Start': '14 Dec',
             'End': '17 Dec, 2023'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'TypeScript for Professionals',
