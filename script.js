@@ -17,33 +17,6 @@ const courses = [
     // },
     
 
-
-    {
-        'Title': 'React & TypeScript - The Practical Guide',
-        'Info': 'Build React apps & use TypeScript to enhance it.',
-        'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/React-TypeScript-The-Practical-Guide',
-            'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
-        },
-        'Date': {
-            'Start': '17 Dec',
-            'End': '...'
-        },
-        'Done': false
-    },
-    {
-        'Title': 'Top Interview 150 Leetcode',
-        'Info': 'Covers comprehensive interview topics',
-        'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/Top-Interview-150-Leetcode',
-            'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
-        },
-        'Date': {
-            'Start': '15 Dec',
-            'End': '...'
-        },
-        'Done': false
-    },
     // {
     //     'Title': 'The Python Bible',
     //     'Info': 'Build 11 Projects and go from Beginner to Pro in Python',
@@ -70,6 +43,32 @@ const courses = [
     //     },
     //     'Done': false
     // },
+    {
+        'Title': 'React & TypeScript - The Practical Guide',
+        'Info': 'Build React apps & use TypeScript to enhance it.',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/React-TypeScript-The-Practical-Guide',
+            'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
+        },
+        'Date': {
+            'Start': '17 Dec',
+            'End': '...'
+        },
+        'Done': false
+    },
+    {
+        'Title': 'Top Interview 150 Leetcode',
+        'Info': 'Covers comprehensive interview topics',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Top-Interview-150-Leetcode',
+            'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
+        },
+        'Date': {
+            'Start': '15 Dec',
+            'End': '...'
+        },
+        'Done': false
+    },
     {
         'Title': 'Tailwind CSS',
         'Info': 'Learn Tailwind by building projects.',
@@ -179,7 +178,7 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/Java-Bootcamp',
         },
         'Date': {
-            'Start': '3 Nov, 2023',
+            'Start': '3 Nov',
             'End': '...'
         },
         'Done': false
