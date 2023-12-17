@@ -16,7 +16,21 @@ const courses = [
     //     'Done': false
     // },
     
-    
+
+
+    {
+        'Title': 'React & TypeScript - The Practical Guide',
+        'Info': 'Build React apps & use TypeScript to enhance it.',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/React-TypeScript-The-Practical-Guide',
+            'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
+        },
+        'Date': {
+            'Start': '17 Dec',
+            'End': '...'
+        },
+        'Done': false
+    },
     {
         'Title': 'Top Interview 150 Leetcode',
         'Info': 'Covers comprehensive interview topics',
@@ -69,19 +83,6 @@ const courses = [
         },
         'Done': false
     },
-    // {
-    //     'Title': 'React & TypeScript - The Practical Guide',
-    //     'Info': 'Build React apps & use TypeScript to enhance it.',
-    //     'Links': {
-    //         // 'My Solutions': '',
-    //         'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
-    //     },
-    //     'Date': {
-    //         'Start': '',
-    //         'End': '...'
-    //     },
-    //     'Done': false
-    // },
     {
         'Title': 'JavaScript – The Tricky Parts',
         'Info': 'The most tricky parts of JavaScript.',
@@ -90,7 +91,7 @@ const courses = [
         },
         'Date': {
             'Start': '14 Dec',
-            'End': '...'
+            'End': '17 Dec, 2023'
         },
         'Done': false
     },
