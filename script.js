@@ -44,7 +44,7 @@ const courses = [
     //     'Done': false
     // },
     {
-        'Title': 'React & TypeScript - The Practical Guide',
+        'Title': 'React & TypeScript - Practical Guide',
         'Info': 'Build React apps & use TypeScript to enhance it.',
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/React-TypeScript-The-Practical-Guide',
