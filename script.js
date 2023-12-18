@@ -73,7 +73,7 @@ const courses = [
         'Title': 'Tailwind CSS',
         'Info': 'Learn Tailwind by building projects.',
         'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/Tailwind-CSS',
+            'My Solutions': 'https://katytailwindcss.netlify.app',
             'The Course': 'https://www.udemy.com/course/tailwind-css-course/',
         },
         'Date': {
