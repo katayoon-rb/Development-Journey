@@ -49,7 +49,7 @@ const courses = [
         'Title': 'React & TypeScript - Practical Guide',
         'Info': 'Build React apps & use TypeScript to enhance it.',
         'Links': {
-            'My Solutions': 'https://github.com/katayoon-rb/React-TypeScript-The-Practical-Guide',
+            'My Solutions': 'https://katyreacttypescript.netlify.app/',
             'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
         },
         'Date': {
