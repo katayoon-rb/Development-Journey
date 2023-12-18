@@ -96,8 +96,8 @@ ul {
             }
 
         .wrap {
-            max-width: 250px;
-            margin-right: 25px;
+            max-width: 260px;
+            margin-right: 20px;
         }
             .wrap span { font-size: 19px; }
             .wrap p { font-size: 13px; color: #7f8152; }
