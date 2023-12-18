@@ -78,9 +78,9 @@ const courses = [
         },
         'Date': {
             'Start': '15 Dec',
-            'End': '...'
+            'End': '18 Dec, 2023'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'JavaScript – The Tricky Parts',
