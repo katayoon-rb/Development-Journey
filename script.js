@@ -17,19 +17,7 @@ const courses = [
     // },
     
 
-    // {
-    //     'Title': 'The Python Bible',
-    //     'Info': 'Build 11 Projects and go from Beginner to Pro in Python',
-    //     'Links': {
-    //         // 'My Solutions': '',
-    //         'The Course': 'https://www.udemy.com/course/the-python-bible/',
-    //     },
-    //     'Date': {
-    //         'Start': '',
-    //         'End': '...'
-    //     },
-    //     'Done': false
-    // },
+    
     // {
     //     'Title': 'Tailwind CSS - Zero to Hero tailwind css',
     //     'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
@@ -43,6 +31,20 @@ const courses = [
     //     },
     //     'Done': false
     // },
+    
+    {
+        'Title': 'The Python Bible',
+        'Info': 'Build 11 Projects and go from Beginner to Pro in Python',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/The-Python-Bible',
+            'The Course': 'https://www.udemy.com/course/the-python-bible/',
+        },
+        'Date': {
+            'Start': '18 Dec',
+            'End': '...'
+        },
+        'Done': false
+    },
     {
         'Title': 'React & TypeScript - Practical Guide',
         'Info': 'Build React apps & use TypeScript to enhance it.',
