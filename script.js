@@ -41,9 +41,9 @@ const courses = [
         },
         'Date': {
             'Start': '18 Dec',
-            'End': '...'
+            'End': '19 Dec, 2023'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'React & TypeScript - Practical Guide',
