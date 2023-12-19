@@ -34,7 +34,7 @@ const courses = [
     
     {
         'Title': 'The Python Bible',
-        'Info': 'Build 11 Projects and go from Beginner to Pro in Python',
+        'Info': 'Build 11 Projects from Beginner to Pro in Python',
         'Links': {
             'My Solutions': 'https://github.com/katayoon-rb/The-Python-Bible',
             'The Course': 'https://www.udemy.com/course/the-python-bible/',
