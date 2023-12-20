@@ -22,11 +22,11 @@ const courses = [
         'Title': 'Tailwind CSS - Zero to Hero',
         'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
         'Links': {
-            // 'My Solutions': '',
+            'My Solutions': 'https://katytailwindzerotohero.netlify.app/',
             'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
         },
         'Date': {
-            'Start': '20 Dec, 2023',
+            'Start': '20 Dec, 2023'
         },
         'Done': true
     },
