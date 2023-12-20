@@ -143,7 +143,7 @@ ul {
         flex-direction: column;
         align-items: center;
     }
-    ul { width: 650px; }
+    ul { width: 75vw; }
 }
 
 
@@ -169,7 +169,7 @@ ul {
     ul {
         margin: 40px 25px;
         padding: 15px 0;
-        width: 475px;
+        width: 85vw;
     }
         .item { padding: 25px 20px; align-items: center; }
             .BTWrap { margin: auto 0; }
