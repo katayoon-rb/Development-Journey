@@ -19,7 +19,7 @@ const courses = [
 
     
     {
-        'Title': 'Tailwind CSS - Zero to Hero tailwind css',
+        'Title': 'Tailwind CSS - Zero to Hero',
         'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
         'Links': {
             // 'My Solutions': '',
