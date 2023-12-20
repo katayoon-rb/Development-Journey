@@ -18,20 +18,18 @@ const courses = [
     
 
     
-    // {
-    //     'Title': 'Tailwind CSS - Zero to Hero tailwind css',
-    //     'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
-    //     'Links': {
-    //         // 'My Solutions': '',
-    //         'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
-    //     },
-    //     'Date': {
-    //         'Start': '',
-    //         'End': '...'
-    //     },
-    //     'Done': false
-    // },
-    
+    {
+        'Title': 'Tailwind CSS - Zero to Hero tailwind css',
+        'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
+        'Links': {
+            // 'My Solutions': '',
+            'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
+        },
+        'Date': {
+            'Start': '20 Dec, 2023',
+        },
+        'Done': true
+    },
     {
         'Title': 'The Python Bible',
         'Info': 'Build 11 Projects from Beginner to Pro in Python',
@@ -54,9 +52,9 @@ const courses = [
         },
         'Date': {
             'Start': '17 Dec',
-            'End': '...'
+            'End': '20 Dec, 2023'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'Top Interview 150 Leetcode',
