@@ -143,7 +143,7 @@ ul {
         flex-direction: column;
         align-items: center;
     }
-    .container { width: 650px; }
+    ul { width: 650px; }
 /*     body {
         background-image: url(bg.png);
         background-size: cover;
