@@ -17,7 +17,19 @@ const courses = [
     // },
     
 
-    
+    {
+        'Title': 'Bootstrap 5 From Scratch',
+        'Info': 'Learn and build modern websites using Bootstrap 5',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Bootstrap-From-Scratch',
+            'The Course': 'https://www.udemy.com/course/bootstrap-from-scratch/',
+        },
+        'Date': {
+            'Start': '23 Dec',
+            'End': '...'
+        },
+        'Done': false
+    },
     {
         'Title': 'Tailwind CSS - Zero to Hero',
         'Info': 'Building a tailwind css music festival site, custom plugins, components & more!',
