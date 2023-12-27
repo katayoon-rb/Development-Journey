@@ -16,7 +16,19 @@ const courses = [
     //     'Done': false
     // },
     
-
+    {
+        'Title': 'Vue – The Complete Guide',
+        'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
+        'Links': {
+            'My Solutions': 'https://github.com/katayoon-rb/Vue-The-Complete-Guide',
+            'The Course': 'https://www.udemy.com/course/vuejs-2-the-complete-guide/',
+        },
+        'Date': {
+            'Start': '27 Dec, 2023',
+            'End': '...'
+        },
+        'Done': false
+    },
     {
         'Title': 'Bootstrap 5 From Scratch',
         'Info': 'Learn and build modern websites using Bootstrap 5',
@@ -25,7 +37,7 @@ const courses = [
             'The Course': 'https://www.udemy.com/course/bootstrap-from-scratch/',
         },
         'Date': {
-            'Start': '23 Dec',
+            'Start': '23 Dec, 2023',
             'End': '...'
         },
         'Done': false
@@ -76,7 +88,7 @@ const courses = [
             'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
         },
         'Date': {
-            'Start': '15 Dec',
+            'Start': '15 Dec, 2023',
             'End': '...'
         },
         'Done': false
@@ -190,7 +202,7 @@ const courses = [
             'My Solutions': 'https://github.com/katayoon-rb/Java-Bootcamp',
         },
         'Date': {
-            'Start': '3 Nov',
+            'Start': '3 Nov, 2023',
             'End': '...'
         },
         'Done': false
@@ -252,7 +264,7 @@ const courses = [
             'The Site': 'https://cssbattle.dev/'
         },
         'Date': {
-            'Start': '9 Oct',
+            'Start': '9 Oct, 2023',
             'End': '...'
         },
         'Done': false
@@ -265,7 +277,7 @@ const courses = [
             'The Site': 'https://shorturl.at/xyzP1'
         },
         'Date': {
-            'Start': '6 Oct',
+            'Start': '6 Oct, 2023',
             'End': '...'
         },
         'Done': false
