@@ -22,10 +22,10 @@ These are some of the skills I've developed and technologies I've worked with:
 - Java
 - Responsive Web Design
 - React
+- Vuejs
 - TypeScript
 - Git and GitHub
 - SQL
-- Jquery
 - Bootstrap
 - Tailwind
 
@@ -123,6 +123,12 @@ Documenting my learning path helps me reflect on my progress and stay organized.
       
 20. **The Python Bible**:
     - Python
+      
+21. **Bootstrap 5 From Scratch**:
+    - Bootstrap 5
+      
+22. **Vue – The Complete Guide**:
+    - Vuejs
    
 ... 
 
