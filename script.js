@@ -37,8 +37,8 @@ const courses = [
             'The Course': 'https://www.udemy.com/course/bootstrap-from-scratch/',
         },
         'Date': {
-            'Start': '23 Dec, 2023',
-            'End': '...'
+            'Start': '23 Dec',
+            'End': '30 Dec, 2023'
         },
         'Done': false
     },
