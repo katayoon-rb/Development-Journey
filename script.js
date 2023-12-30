@@ -40,7 +40,7 @@ const courses = [
             'Start': '23 Dec',
             'End': '30 Dec, 2023'
         },
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'Tailwind CSS - Zero to Hero',
