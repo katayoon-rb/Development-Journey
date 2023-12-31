@@ -1,31 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katayoon Rabbani - Development Journey</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!--
+    // v0 by Vercel.
+    // https://v0.dev/t/1dLePSo4mM3
+    -->
+    <main class="container mx-auto p-8 bg-orange-100">
+        <h1 class="text-3xl font-bold tracking-tighter sm:text-5xl text-center mt-10 mb-3">
+            My Completed and Ongoing Courses</h1>
+        <h3 class="text-3xl font-semibold text-center mb-12">
+            Katayoon Rabbani</h3>
         
-        <link rel="stylesheet" href="style.css">
-        <title>Katayoon Rabbani - Development Journey</title>
-    </head>
-    <body>
-        <h1 class="name">Katayoon Rabbani</h1>
-        <h2 class="title">Development Journey</h2>
+        <div class="flex items-start flex-col-reverse lg:flex-row gap-6">
+            <section class="mb-20 bg-white rounded-xl px-8 py-12 w-full lg:w-2/4">
+                <h2 class="text-2xl font-bold tracking-tight sm:text-4xl text-center mb-8">
+                    Completed Courses</h2>
+                <div id="container" class="grid grid-cols-1 gap-6">
+                    
+                </div>
+            </section>
+            <section class="mb-20 bg-white rounded-xl px-8 py-12 w-full lg:w-2/4">
+                <h2 class="text-2xl font-bold tracking-tight sm:text-4xl text-center mb-8">
+                    Ongoing Courses</h2>
+                <div id="container" class="grid grid-cols-1 gap-6">
 
-        <div class="wrapper">
-            <div class="ongoing">
-                <ul id="container">
-                    <h2 class="headline">Ongoing Courses</h2>
-                </ul>
-            </div>
-
-            <div class="finished">
-                <ul id="container">
-                    <h2 class="headline">Finished Courses</h2>
-                </ul>
-            </div>
+                </div>
+            </section>
         </div>
+    </main>
 
-        <script src="script.js"></script>
-    </body>
+    <script src="./script.js"></script>
+</body>
 </html>
