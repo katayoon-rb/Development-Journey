@@ -136,16 +136,6 @@ const courses = [
         'Done': true
     },
     {
-        'Title': 'The Python Bible',
-        'Info': 'Build 11 Projects from Beginner to Pro in Python',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/The-Python-Bible',
-            'Original Course': 'https://www.udemy.com/course/the-python-bible/',
-        },
-        'End': '19 Dec, 2023',
-        'Done': true
-    },
-    {
         'Title': 'React & TypeScript - Practical Guide',
         'Info': 'Build React apps & use TypeScript to enhance it.',
         'Links': {
@@ -153,6 +143,16 @@ const courses = [
             'Original Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
         },
         'End': '20 Dec, 2023',
+        'Done': true
+    },
+    {
+        'Title': 'The Python Bible',
+        'Info': 'Build 11 Projects from Beginner to Pro in Python',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/The-Python-Bible',
+            'Original Course': 'https://www.udemy.com/course/the-python-bible/',
+        },
+        'End': '19 Dec, 2023',
         'Done': true
     },
     {
