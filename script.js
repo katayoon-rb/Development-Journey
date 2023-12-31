@@ -13,6 +13,7 @@ const courses = [
     //     'Done': false
     // },
 
+    // ONGOING
     // {
     //     'Title': 'Design Patterns in JavaScript',
     //     'Info': 'Discover the modern design patterns in Js',
@@ -74,6 +75,47 @@ const courses = [
         'Done': false
     },
     {
+        'Title': 'Top Interview 150 Leetcode',
+        'Info': 'Covers comprehensive interview topics',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Top-Interview-150-Leetcode',
+            'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
+        },
+        'End': '',
+        'Done': false
+    },
+    {
+        'Title': ' Java Bootcamp',
+        'Info': 'Java fundamentals and syntax, data structures, & ...',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp',
+        },
+        'End': '',
+        'Done': false
+    },
+    {
+        'Title': 'CSS Battle',
+        'Info': 'Daily Targets & Battles - HTML/CSS',
+        'Links': {
+            'My Implementation': 'https://katycssbattle.netlify.app/',
+            'The Site': 'https://cssbattle.dev/'
+        },
+        'End': '',
+        'Done': false
+    },
+    {
+        'Title': 'Frontend Mentor Challenges',
+        'Info': 'HTML, CSS & Js',
+        'Links': {
+            'My Implementation': 'https://katyfrontendmentorchallenges.netlify.app/',
+            'The Site': 'https://shorturl.at/xyzP1'
+        },
+        'End': '',
+        'Done': false
+    },
+
+    // FINISHED
+    {
         'Title': 'Bootstrap 5 From Scratch',
         'Info': 'Learn and build modern websites using Bootstrap 5',
         'Links': {
@@ -114,16 +156,6 @@ const courses = [
         'Done': true
     },
     {
-        'Title': 'Top Interview 150 Leetcode',
-        'Info': 'Covers comprehensive interview topics',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Top-Interview-150-Leetcode',
-            'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': 'Tailwind CSS',
         'Info': 'Learn Tailwind by building projects.',
         'Links': {
@@ -159,6 +191,16 @@ const courses = [
             'Original Course': 'https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/',
         },
         'End': '14 Dec, 2023',
+        'Done': true
+    },
+    {
+        'Title': 'CS50p Harvard',
+        'Info': 'Python',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/CS50p-Course',
+            'Original Course': 'https://shorturl.at/ksOSU'
+        },
+        'End': '13 Dec, 2023',
         'Done': true
     },
     {
@@ -202,13 +244,24 @@ const courses = [
         'Done': true
     },
     {
-        'Title': ' Java Bootcamp',
-        'Info': 'Java fundamentals and syntax, data structures, & ...',
+        'Title': 'CS50x Harvard',
+        'Info': 'Scratch, C, Python, SQL, HTML/CSS & Flask',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp',
+            'My Implementation': 'https://github.com/katayoon-rb/CS50x-Course',
+            'Original Course': 'https://shorturl.at/dnvzA'
         },
-        'End': '',
-        'Done': false
+        'End': '14 Nov, 2023',
+        'Done': true
+    },
+    {
+        'Title': '100 Days CSS Challenge',
+        'Info': 'HTML, CSS & Js',
+        'Links': {
+            'My Implementation': 'https://katy100dayscss.netlify.app/',
+            'The Site': 'https://100dayscss.com/'
+        },
+        'End': '8 Nov, 2023',
+        'Done': true
     },
     {
         'Title': 'Python with 100 Python Exercises',
@@ -218,15 +271,6 @@ const courses = [
             'Original Course': 'https://www.udemy.com/course/python-video-workbook/',
         },
         'End': '1 Nov, 2023',
-        'Done': true
-    },
-    {
-        'Title': 'Complete Flexbox Course',
-        'Info': 'Master CSS3 Flexbox for Good',
-        'Links': {
-            'Original Course': 'https://www.udemy.com/course/flexbox-tutorial/',
-        },
-        'End': '23 Oct, 2023',
         'Done': true
     },
     {
@@ -249,33 +293,12 @@ const courses = [
         'Done': true
     },
     {
-        'Title': 'CSS Battle',
-        'Info': 'Daily Targets & Battles - HTML/CSS',
+        'Title': 'Complete Flexbox Course',
+        'Info': 'Master CSS3 Flexbox for Good',
         'Links': {
-            'My Implementation': 'https://katycssbattle.netlify.app/',
-            'The Site': 'https://cssbattle.dev/'
+            'Original Course': 'https://www.udemy.com/course/flexbox-tutorial/',
         },
-        'End': '',
-        'Done': false
-    },
-    {
-        'Title': 'Frontend Mentor Challenges',
-        'Info': 'HTML, CSS & Js',
-        'Links': {
-            'My Implementation': 'https://katyfrontendmentorchallenges.netlify.app/',
-            'The Site': 'https://shorturl.at/xyzP1'
-        },
-        'End': '',
-        'Done': false
-    },
-    {
-        'Title': '100 Days CSS Challenge',
-        'Info': 'HTML, CSS & Js',
-        'Links': {
-            'My Implementation': 'https://katy100dayscss.netlify.app/',
-            'The Site': 'https://100dayscss.com/'
-        },
-        'End': '8 Nov, 2023',
+        'End': '23 Oct, 2023',
         'Done': true
     },
     {
@@ -286,26 +309,6 @@ const courses = [
             'Original Course': 'https://www.udemy.com/course/50-projects-50-days/'
         },
         'End': '6 Oct, 2023',
-        'Done': true
-    },
-    {
-        'Title': 'CS50p Harvard',
-        'Info': 'Python',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/CS50p-Course',
-            'Original Course': 'https://shorturl.at/ksOSU'
-        },
-        'End': '13 Dec, 2023',
-        'Done': true
-    },
-    {
-        'Title': 'CS50x Harvard',
-        'Info': 'Scratch, C, Python, SQL, HTML/CSS & Flask',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/CS50x-Course',
-            'Original Course': 'https://shorturl.at/dnvzA'
-        },
-        'End': '14 Nov, 2023',
         'Done': true
     },
     {
