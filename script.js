@@ -335,12 +335,13 @@ courses.forEach(course => {
     buttons = ``
     Object.keys(links).forEach(x => {
         buttons += `
-            <a href=${links[x]}>
-                <button class="inline-flex items-center justify-center bg-orange-50 h-10 mt-2 px-4 py-2
+            <a href=${links[x]} class="w-52">
+                <button class="inline-flex items-center justify-center mt-2 px-4 py-2
                         rounded-md text-sm font-medium ring-offset-background transition-colors
                         focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring
-                        focus-visible:ring-offset-2
-                        disabled:pointer-events-none disabled:opacity-50">${x}</button>
+                        focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50
+                        bg-cyan-100 h-10 w-full">
+                    ${x}</button>
             </a>
         `
     })
@@ -353,7 +354,8 @@ courses.forEach(course => {
             </div>
             <div class="p-6 pt-1">
                 <p class="text-gray-500 text-justify">${course['Info']}</p>
-                <div class="flex items-center justify-center space-x-4 mt-2">${buttons}</div>
+                <div class="flex flex-col md:flex-row items-center justify-center space-4 md:space-x-4 mt-2">
+                    ${buttons}</div>
             </div>
         </div>
     `
