@@ -15,7 +15,72 @@ const courses = [
     //     },
     //     'Done': false
     // },
-    
+
+    // {
+    //     'Title': 'Design Patterns in JavaScript',
+    //     'Info': 'Discover the modern design patterns in Js',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/design-patterns-javascript/',
+    //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'The Ultimate Design Pattern Series',
+    //     'Info': 'A deep dive into Behavioral Design Patterns',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://codewithmosh.com/p/design-patterns',
+    //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'Tailwind CSS From Scratch',
+    //     'Info': 'Build layouts fast and efficiently using Tailwind',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
+    //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
+    //     'Done': false
+    // },
+    // {
+    //     'Title': '70+ JavaScript Challenges',
+    //     'Info': 'Build better foundational skills as a developer',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/javascript-challenges/?persist_locale=&locale=en_US',
+    //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'Clean Code',
+    //     'Info': 'Learn to write readable, understandable and maintainable code',
+    //     'Links': {
+    //         // 'My Solutions': '',
+    //         'The Course': 'https://www.udemy.com/course/writing-clean-code/',
+    //     },
+    //     'Date': {
+    //         'Start': '',
+    //         'End': '...'
+    //     },
+    //     'Done': false
+    // },
     {
         'Title': 'Vue – The Complete Guide',
         'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
