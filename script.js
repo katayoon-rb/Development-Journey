@@ -54,16 +54,16 @@ const courses = [
     //     'End': '',
     //     'Done': false
     // },
-    // {
-    //     'Title': 'Clean Code',
-    //     'Info': 'Learn to write readable, understandable and maintainable code',
-    //     'Links': {
-    //         // 'My Implementation': '',
-    //         'Original Course': 'https://www.udemy.com/course/writing-clean-code/',
-    //     },
-    //     'End': '',
-    //     'Done': false
-    // },
+    {
+        'Title': 'Clean Code',
+        'Info': 'Learn to write readable, understandable and maintainable code',
+        'Links': {
+            // 'My Implementation': '',
+            'Original Course': 'https://www.udemy.com/course/writing-clean-code/',
+        },
+        'End': '',
+        'Done': false
+    },
     {
         'Title': 'Vue – The Complete Guide',
         'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
