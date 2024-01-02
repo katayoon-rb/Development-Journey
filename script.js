@@ -75,16 +75,6 @@ const courses = [
         'Done': false
     },
     {
-        'Title': 'Top Interview 150 Leetcode',
-        'Info': 'Covers comprehensive interview topics',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Top-Interview-150-Leetcode',
-            'The Site': 'https://leetcode.com/studyplan/top-interview-150/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, & ...',
         'Links': {
