@@ -16,18 +16,24 @@ These are some of the skills I've developed and technologies I've worked with:
 
 - HTML and CSS
 - SCSS (Sass)
-- C
+- Bootstrap
+- Tailwind
+  
 - JavaScript
-- Python
-- Java
-- Responsive Web Design
 - React
 - Vuejs
 - TypeScript
+  
+- C
+- Python
+- Java
+  
+- Writing Clean Code
+- Responsive Web Design
+- Design Patterns
 - Git and GitHub
 - SQL
-- Bootstrap
-- Tailwind
+
 
 
 ## Learning Path 📚
@@ -129,6 +135,22 @@ Documenting my learning path helps me reflect on my progress and stay organized.
       
 22. **Vue – The Complete Guide**:
     - Vuejs
+      
+23. **Clean Code**:
+    - Readable, Understandable and Maintainable code
+      
+24. **70+ JavaScript Challenges**:
+    - JavaScript
+      
+25. **Tailwind CSS From Scratch**:
+    - Tailwind
+      
+26. **The Ultimate Design Pattern Series**:
+    - Design Patterns
+      
+27. **Design Patterns in JavaScript**:
+    - Design Patterns
+    - JavaScript
    
 ... 
 
