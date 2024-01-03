@@ -55,16 +55,6 @@ const courses = [
     //     'Done': false
     // },
     {
-        'Title': 'Clean Code',
-        'Info': 'Learn to write readable, understandable and maintainable code',
-        'Links': {
-            // 'My Implementation': '',
-            'Original Course': 'https://www.udemy.com/course/writing-clean-code/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': 'Vue – The Complete Guide',
         'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
         'Links': {
@@ -105,6 +95,15 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Clean Code',
+        'Info': 'Learn to write readable, understandable and maintainable code',
+        'Links': {
+            'Original Course': 'https://www.udemy.com/course/writing-clean-code/',
+        },
+        'End': '3 Jan, 2024',
+        'Done': true
+    },
     {
         'Title': 'Bootstrap 5 From Scratch',
         'Info': 'Learn and build modern websites using Bootstrap 5',
