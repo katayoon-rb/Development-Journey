@@ -44,16 +44,16 @@ const courses = [
     //     'End': '',
     //     'Done': false
     // },
-    // {
-    //     'Title': '70+ JavaScript Challenges',
-    //     'Info': 'Build better foundational skills as a developer',
-    //     'Links': {
-    //         // 'My Implementation': '',
-    //         'Original Course': 'https://www.udemy.com/course/javascript-challenges/?persist_locale=&locale=en_US',
-    //     },
-    //     'End': '',
-    //     'Done': false
-    // },
+    {
+        'Title': '70+ JavaScript Challenges',
+        'Info': 'Build better foundational skills as a developer',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/70-JavaScript-Challenges',
+            'Original Course': 'https://www.udemy.com/course/javascript-challenges/?persist_locale=&locale=en_US',
+        },
+        'End': '',
+        'Done': false
+    },
     {
         'Title': 'Vue – The Complete Guide',
         'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
