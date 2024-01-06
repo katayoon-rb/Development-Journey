@@ -25,16 +25,6 @@ const courses = [
     //     'Done': false
     // },
     // {
-    //     'Title': 'The Ultimate Design Pattern Series',
-    //     'Info': 'A deep dive into Behavioral Design Patterns',
-    //     'Links': {
-    //         // 'My Implementation': '',
-    //         'Original Course': 'https://codewithmosh.com/p/design-patterns',
-    //     },
-    //     'End': '',
-    //     'Done': false
-    // },
-    // {
     //     'Title': 'Tailwind CSS From Scratch',
     //     'Info': 'Build layouts fast and efficiently using Tailwind',
     //     'Links': {
@@ -44,6 +34,16 @@ const courses = [
     //     'End': '',
     //     'Done': false
     // },
+    {
+        'Title': 'The Ultimate Design Pattern Series',
+        'Info': 'A deep dive into Behavioral Design Patterns',
+        'Links': {
+            // 'My Implementation': '',
+            'Original Course': 'https://codewithmosh.com/p/design-patterns',
+        },
+        'End': '',
+        'Done': false
+    },
     {
         'Title': '70+ JavaScript Challenges',
         'Info': 'Build better foundational skills as a developer',
