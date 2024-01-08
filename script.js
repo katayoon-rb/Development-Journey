@@ -93,7 +93,7 @@ const courses = [
             'Original Course': 'https://www.udemy.com/course/vuejs-2-the-complete-guide/',
         },
         'End': '8 Jan, 2024',
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'Clean Code',
