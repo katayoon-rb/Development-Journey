@@ -55,16 +55,6 @@ const courses = [
         'Done': false
     },
     {
-        'Title': 'Vue – The Complete Guide',
-        'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Vue-The-Complete-Guide',
-            'Original Course': 'https://www.udemy.com/course/vuejs-2-the-complete-guide/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, & ...',
         'Links': {
@@ -95,6 +85,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Vue – The Complete Guide',
+        'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Vue-The-Complete-Guide',
+            'Original Course': 'https://www.udemy.com/course/vuejs-2-the-complete-guide/',
+        },
+        'End': '8 Jan, 2024',
+        'Done': false
+    },
     {
         'Title': 'Clean Code',
         'Info': 'Learn to write readable, understandable and maintainable code',
