@@ -24,32 +24,32 @@ const courses = [
     //     'End': '',
     //     'Done': false
     // },
-    // {
-    //     'Title': 'Tailwind CSS From Scratch',
-    //     'Info': 'Build layouts fast and efficiently using Tailwind',
-    //     'Links': {
-    //         // 'My Implementation': '',
-    //         'Original Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
-    //     },
-    //     'End': '',
-    //     'Done': false
-    // },
+    {
+        'Title': 'Svelte.js – The Complete Guide',
+        'Info': 'Build high-performance web apps with SvelteJS',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Svelte.js',
+            'Original Course': 'https://www.udemy.com/course/sveltejs-the-complete-guide/',
+        },
+        'End': '',
+        'Done': false
+    },
+    {
+        'Title': 'Tailwind CSS From Scratch',
+        'Info': 'Build layouts fast and efficiently using Tailwind',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Tailwind-From-Scratch',
+            'Original Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
+        },
+        'End': '',
+        'Done': false
+    },
     {
         'Title': 'The Ultimate Design Pattern Series',
         'Info': 'A deep dive into Behavioral Design Patterns',
         'Links': {
             'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Design-Pattern',
             'Original Course': 'https://codewithmosh.com/p/design-patterns',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
-        'Title': '70+ JavaScript Challenges',
-        'Info': 'Build better foundational skills as a developer',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/70-JavaScript-Challenges',
-            'Original Course': 'https://www.udemy.com/course/javascript-challenges/?persist_locale=&locale=en_US',
         },
         'End': '',
         'Done': false
@@ -85,6 +85,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': '70+ JavaScript Challenges',
+        'Info': 'Build better foundational skills as a developer',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/70-JavaScript-Challenges',
+            'Original Course': 'https://www.udemy.com/course/javascript-challenges/?persist_locale=&locale=en_US',
+        },
+        'End': '8 Jan, 2024',
+        'Done': true
+    },
     {
         'Title': 'Vue – The Complete Guide',
         'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
