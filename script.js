@@ -14,16 +14,16 @@ const courses = [
     // },
 
     // ONGOING
-    // {
-    //     'Title': 'Design Patterns in JavaScript',
-    //     'Info': 'Discover the modern design patterns in Js',
-    //     'Links': {
-    //         // 'My Implementation': '',
-    //         'Original Course': 'https://www.udemy.com/course/design-patterns-javascript/',
-    //     },
-    //     'End': '',
-    //     'Done': false
-    // },
+    {
+        'Title': 'Design Patterns in JavaScript',
+        'Info': 'Discover the modern design patterns in Js',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Design-Patterns-in-Js',
+            'Original Course': 'https://www.udemy.com/course/design-patterns-javascript/',
+        },
+        'End': '',
+        'Done': false
+    },
     {
         'Title': 'Svelte.js – The Complete Guide',
         'Info': 'Build high-performance web apps with SvelteJS',
@@ -40,16 +40,6 @@ const courses = [
         'Links': {
             'My Implementation': 'https://github.com/katayoon-rb/Tailwind-From-Scratch',
             'Original Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
-        'Title': 'The Ultimate Design Pattern Series',
-        'Info': 'A deep dive into Behavioral Design Patterns',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Design-Pattern',
-            'Original Course': 'https://codewithmosh.com/p/design-patterns',
         },
         'End': '',
         'Done': false
@@ -85,6 +75,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'The Ultimate Design Pattern Series',
+        'Info': 'A deep dive into Behavioral Design Patterns',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Design-Pattern',
+            'Original Course': 'https://codewithmosh.com/p/design-patterns',
+        },
+        'End': '10 Jan, 2024',
+        'Done': true
+    },
     {
         'Title': '70+ JavaScript Challenges',
         'Info': 'Build better foundational skills as a developer',
