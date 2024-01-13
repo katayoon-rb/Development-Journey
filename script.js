@@ -14,6 +14,16 @@ const courses = [
     // },
 
     // ONGOING
+    // {
+    //     'Title': 'The Joy of React',
+    //     'Info': 'Build rich, dynamic web apps with React',
+    //     'Links': {
+    //         'My Implementation': 'https://github.com/katayoon-rb/The-Joy-of-React',
+    //         'Original Course': 'https://www.joyofreact.com/',
+    //     },
+    //     'End': '',
+    //     'Done': false
+    // },
     {
         'Title': 'Design Patterns in JavaScript',
         'Info': 'Discover the modern design patterns in Js',
