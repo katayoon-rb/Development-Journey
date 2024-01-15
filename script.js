@@ -79,7 +79,7 @@ const courses = [
         'Title': 'Tailwind CSS From Scratch',
         'Info': 'Build layouts fast and efficiently using Tailwind',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Tailwind-From-Scratch',
+            'My Implementation': 'https://katytailwindfromscratch.netlify.app/',
             'Original Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
         },
         'End': '15 Jan, 2024',
