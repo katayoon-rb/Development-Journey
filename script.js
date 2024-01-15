@@ -45,16 +45,6 @@ const courses = [
         'Done': false
     },
     {
-        'Title': 'Tailwind CSS From Scratch',
-        'Info': 'Build layouts fast and efficiently using Tailwind',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Tailwind-From-Scratch',
-            'Original Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, & ...',
         'Links': {
@@ -85,6 +75,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Tailwind CSS From Scratch',
+        'Info': 'Build layouts fast and efficiently using Tailwind',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Tailwind-From-Scratch',
+            'Original Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
+        },
+        'End': '15 Jan, 2024',
+        'Done': true
+    },
     {
         'Title': 'The Ultimate Design Pattern Series',
         'Info': 'A deep dive into Behavioral Design Patterns',
