@@ -25,16 +25,6 @@ const courses = [
     //     'Done': false
     // },
     {
-        'Title': 'Design Patterns in JavaScript',
-        'Info': 'Discover the modern design patterns in Js',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Design-Patterns-in-Js',
-            'Original Course': 'https://www.udemy.com/course/design-patterns-javascript/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, & ...',
         'Links': {
@@ -65,6 +55,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Design Patterns in JavaScript',
+        'Info': 'Discover the modern design patterns in Js',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Design-Patterns-in-Js',
+            'Original Course': 'https://www.udemy.com/course/design-patterns-javascript/',
+        },
+        'End': '15 Jan, 2024',
+        'Done': true
+    },
     {
         'Title': 'Svelte.js – The Complete Guide',
         'Info': 'Build high-performance web apps with SvelteJS',
