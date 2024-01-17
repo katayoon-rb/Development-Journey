@@ -109,7 +109,7 @@ const courses = [
         'Title': 'Vue – The Complete Guide',
         'Info': 'Vue.js is an awesome JS Framework for building Frontend Apps!',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Vue-The-Complete-Guide',
+            'My Implementation': 'https://katyvueguide.netlify.app/',
             'Original Course': 'https://www.udemy.com/course/vuejs-2-the-complete-guide/',
         },
         'End': '8 Jan, 2024',
