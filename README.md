@@ -23,6 +23,7 @@ These are some of the skills I've developed and technologies I've worked with:
 - React
 - Vuejs
 - TypeScript
+- Svelte
   
 - C
 - Python
