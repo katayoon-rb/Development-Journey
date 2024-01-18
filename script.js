@@ -69,7 +69,7 @@ const courses = [
         'Title': 'Svelte.js – The Complete Guide',
         'Info': 'Build high-performance web apps with SvelteJS',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Svelte.js',
+            'My Implementation': 'https://katysveltejs.netlify.app/',
             'Original Course': 'https://www.udemy.com/course/sveltejs-the-complete-guide/',
         },
         'End': '15 Jan, 2024',
