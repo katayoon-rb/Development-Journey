@@ -15,11 +15,11 @@ const courses = [
 
     // ONGOING
     {
-        'Title': 'The Joy of React',
-        'Info': 'Build rich, dynamic web apps with React',
+        'Title': 'React Front To Back',
+        'Info': 'Learn modern React by building 4 projects.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/The-Joy-of-React',
-            'Original Course': 'https://www.joyofreact.com/',
+            'My Implementation': 'https://github.com/katayoon-rb/React-Front-To-Back',
+            'Original Course': 'https://www.udemy.com/course/react-front-to-back-2022/',
         },
         'End': '',
         'Done': false
@@ -55,6 +55,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'The Joy of React',
+        'Info': 'Build rich, dynamic web apps with React',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/The-Joy-of-React',
+            'Original Course': 'https://www.joyofreact.com/',
+        },
+        'End': '3 Feb, 2024',
+        'Done': true
+    },
     {
         'Title': 'Design Patterns in JavaScript',
         'Info': 'Discover the modern design patterns in Js',
