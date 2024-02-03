@@ -43,16 +43,6 @@ const courses = [
         'End': '',
         'Done': false
     },
-    {
-        'Title': 'Frontend Mentor Challenges',
-        'Info': 'HTML, CSS & Js',
-        'Links': {
-            'My Implementation': 'https://katyfrontendmentorchallenges.netlify.app/',
-            'The Site': 'https://shorturl.at/xyzP1'
-        },
-        'End': '',
-        'Done': false
-    },
 
     // FINISHED
     {
@@ -290,6 +280,16 @@ const courses = [
             'Original Course': 'https://www.udemy.com/course/python-video-workbook/',
         },
         'End': '1 Nov, 2023',
+        'Done': true
+    },
+    {
+        'Title': 'Frontend Mentor Challenges',
+        'Info': 'HTML, CSS & Js',
+        'Links': {
+            'My Implementation': 'https://katyfrontendmentorchallenges.netlify.app/',
+            'The Site': 'https://shorturl.at/xyzP1'
+        },
+        'End': '',
         'Done': true
     },
     {
