@@ -15,11 +15,11 @@ const courses = [
 
     // ONGOING
     {
-        'Title': 'React Front To Back',
-        'Info': 'Learn modern React by building 4 projects.',
+        'Title': 'React Testing Library and Jest',
+        'Info': 'A complete, all-in-one guide to fully testing your React projects using React Testing Library and Jest.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/React-Front-To-Back',
-            'Original Course': 'https://www.udemy.com/course/react-front-to-back-2022/',
+            'My Implementation': 'https://github.com/katayoon-rb/React-Testing-Library-and-Jest',
+            'Original Course': 'https://www.udemy.com/course/react-testing-library-and-jest',
         },
         'End': '',
         'Done': false
@@ -45,6 +45,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'React Front To Back',
+        'Info': 'Learn modern React by building 4 projects.',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/React-Front-To-Back',
+            'Original Course': 'https://www.udemy.com/course/react-front-to-back-2022/',
+        },
+        'End': '22 Feb, 2024',
+        'Done': true
+    },
     {
         'Title': 'The Joy of React',
         'Info': 'Build rich, dynamic web apps with React',
