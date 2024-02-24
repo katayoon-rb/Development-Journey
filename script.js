@@ -24,15 +24,6 @@ const courses = [
         'Done': false
     },
     {
-        'Title': 'Android Bootcamp',
-        'Info': 'Creating android apps using java',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Android-Bootcamp',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, & ...',
         'Links': {
