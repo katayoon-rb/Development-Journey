@@ -14,16 +14,16 @@ const courses = [
     // },
 
     // ONGOING
-    {
-        'Title': 'Software Engineering 101',
-        'Info': 'Use Software Engineering to Plan and Build Amazing Software + Learn SCRUM Framework!',
-        'Links': {
-            // 'My Implementation': '',
-            'Original Course': 'https://www.udemy.com/course/software-engineering-101',
-        },
-        'End': '',
-        'Done': false
-    },
+    // {
+    //     'Title': 'Software Engineering 101',
+    //     'Info': 'Use Software Engineering to Plan and Build Amazing Software + Learn SCRUM Framework!',
+    //     'Links': {
+    //         // 'My Implementation': '',
+    //         'Original Course': 'https://www.udemy.com/course/software-engineering-101',
+    //     },
+    //     'End': '',
+    //     'Done': false
+    // },
     {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, & ...',
