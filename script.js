@@ -15,10 +15,11 @@ const courses = [
 
     // ONGOING
     {
-        'Title': 'React Testing Library and Jest',
-        'Info': 'A complete, all-in-one guide to fully testing your React projects using React Testing Library and Jest.',
+        'Title': 'Software Engineering 101',
+        'Info': 'Use Software Engineering to Plan and Build Amazing Software + Learn SCRUM Framework!',
         'Links': {
-            'Original Course': 'https://www.udemy.com/course/react-testing-library-and-jest',
+            // 'My Implementation': '',
+            'Original Course': 'https://www.udemy.com/course/software-engineering-101',
         },
         'End': '',
         'Done': false
@@ -44,6 +45,15 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'React Testing Library and Jest',
+        'Info': 'A complete, all-in-one guide to fully testing your React projects using React Testing Library and Jest.',
+        'Links': {
+            'Original Course': 'https://www.udemy.com/course/react-testing-library-and-jest',
+        },
+        'End': '24 Feb, 2024',
+        'Done': true
+    },
     {
         'Title': 'React Front To Back',
         'Info': 'Learn modern React by building 4 projects.',
