@@ -18,8 +18,16 @@ const courses = [
         'Title': 'React Testing Library and Jest',
         'Info': 'A complete, all-in-one guide to fully testing your React projects using React Testing Library and Jest.',
         'Links': {
-            // 'My Implementation': 'https://github.com/katayoon-rb/React-Testing-Library-and-Jest',
             'Original Course': 'https://www.udemy.com/course/react-testing-library-and-jest',
+        },
+        'End': '',
+        'Done': false
+    },
+    {
+        'Title': 'Android Bootcamp',
+        'Info': 'Creating android apps using java',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Android-Bootcamp',
         },
         'End': '',
         'Done': false
