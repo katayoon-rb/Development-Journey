@@ -15,11 +15,11 @@ const courses = [
 
     // ONGOING
     {
-        'Title': 'Software Engineering 101',
-        'Info': 'Use Software Engineering to Plan and Build Amazing Software + Learn SCRUM Framework!',
+        'Title': 'Java Bootcamp: Zero to Mastery',
+        'Info': 'Learn Java from scratch with an industry expert.',
         'Links': {
-            // 'My Implementation': '',
-            'Original Course': 'https://www.udemy.com/course/software-engineering-101',
+            'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp-ZeroToMastery',
+            'Original Course': 'https://zerotomastery.io/courses/java-bootcamp/',
         },
         'End': '',
         'Done': false
@@ -36,6 +36,15 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Software Engineering 101',
+        'Info': 'Use Software Engineering to Plan and Build Amazing Software + Learn SCRUM Framework!',
+        'Links': {
+            'Original Course': 'https://www.udemy.com/course/software-engineering-101',
+        },
+        'End': '28 Feb, 2024',
+        'Done': true
+    },
     {
         'Title': ' Java Bootcamp',
         'Info': 'Java fundamentals and syntax, data structures, & ...',
