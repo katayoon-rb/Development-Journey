@@ -91,7 +91,6 @@ Documenting my learning path helps me reflect on my progress and stay organized.
    - TypeScript + Node
       
 10. **Automate the Boring Stuff with Python**
-    - Python
       
 11. **Learn and Understand NodeJS**
     - NodeJS
@@ -101,10 +100,8 @@ Documenting my learning path helps me reflect on my progress and stay organized.
     - Core Javascript concepts
      
 12. **Complete Flexbox Course**
-    - Flexbox in CSS
 
 13. **Practice Python with 100 Python Exercises**
-    - Python
 
 14. **Python and Django Full Stack Bootcamp**:
     - HTML/CSS
@@ -114,45 +111,40 @@ Documenting my learning path helps me reflect on my progress and stay organized.
     - Python
 
 15. **TypeScript for Professionals**:
-    - TypeScript
       
 16. **JavaScript – The Tricky Parts**:
-    - JavaScript
       
 17. **React & TypeScript - The Practical Guide**:
-    - React
-    - TypeScript
   
 18. **Tailwind CSS : A Modern Way To Build Websites Using CSS**:
-    - Tailwind
   
 19. **Tailwind CSS - Zero to Hero tailwind css**:
-    - Tailwind
       
 20. **The Python Bible**:
-    - Python
       
 21. **Bootstrap 5 From Scratch**:
-    - Bootstrap 5
       
 22. **Vue – The Complete Guide**:
-    - Vuejs
       
 23. **Clean Code**:
-    - Readable, Understandable and Maintainable code
       
 24. **70+ JavaScript Challenges**:
-    - JavaScript
       
 25. **Tailwind CSS From Scratch**:
-    - Tailwind
       
 26. **The Ultimate Design Pattern Series**:
-    - Design Patterns
       
 27. **Design Patterns in JavaScript**:
     - Design Patterns
     - JavaScript
+  
+28. **The Joy of React**
+    
+29. **React Front To Back**
+    
+30. **React Testing Library and Jest**
+    
+31. **Software Engineering 101**
    
 ... 
 
