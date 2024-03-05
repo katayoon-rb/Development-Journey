@@ -14,16 +14,16 @@ const courses = [
     // },
 
     // ONGOING
-    // {
-    //     'Title': 'Java Bootcamp: Zero to Mastery',
-    //     'Info': 'Learn Java from scratch with an industry expert.',
-    //     'Links': {
-    //         'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp-ZeroToMastery',
-    //         'Original Course': 'https://zerotomastery.io/courses/java-bootcamp/',
-    //     },
-    //     'End': '',
-    //     'Done': false
-    // },
+    {
+        'Title': 'Java Bootcamp: Zero to Mastery',
+        'Info': 'Learn Java from scratch with an industry expert.',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp-ZeroToMastery',
+            'Original Course': 'https://zerotomastery.io/courses/java-bootcamp/',
+        },
+        'End': '',
+        'Done': false
+    },
     {
         'Title': 'CSS Battle',
         'Info': 'Daily Targets & Battles - HTML/CSS',
