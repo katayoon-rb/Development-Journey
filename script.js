@@ -15,11 +15,11 @@ const courses = [
 
     // ONGOING
     {
-        'Title': 'Java Bootcamp: Zero to Mastery',
-        'Info': 'Learn Java from scratch with an industry expert.',
+        'Title': 'The Ultimate Java Mastery Series',
+        'Info': 'Master Java - the most popular programming language underpinning most apps and websites.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp-ZeroToMastery',
-            'Original Course': 'https://zerotomastery.io/courses/java-bootcamp/',
+            'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Java-Mastery',
+            'Original Course': 'https://codewithmosh.com/p/the-ultimate-java-mastery-series',
         },
         'End': '',
         'Done': false
@@ -36,6 +36,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Java Bootcamp: Zero to Mastery',
+        'Info': 'Learn Java from scratch with an industry expert.',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp-ZeroToMastery',
+            'Original Course': 'https://zerotomastery.io/courses/java-bootcamp/',
+        },
+        'End': '6 Mar, 2024',
+        'Done': true
+    },
     {
         'Title': 'Software Engineering 101',
         'Info': 'Use Software Engineering to Plan and Build Amazing Software + Learn SCRUM Framework!',
