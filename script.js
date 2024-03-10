@@ -25,16 +25,6 @@ const courses = [
     //     'Done': false
     // },
     {
-        'Title': 'The Ultimate Java Mastery Series',
-        'Info': 'Master Java - the most popular programming language underpinning most apps and websites.',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Java-Mastery',
-            'Original Course': 'https://codewithmosh.com/p/the-ultimate-java-mastery-series',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': 'CSS Battle',
         'Info': 'Daily Targets & Battles - HTML/CSS',
         'Links': {
@@ -46,6 +36,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'The Ultimate Java Mastery Series',
+        'Info': 'Master Java - the most popular programming language underpinning most apps and websites.',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Java-Mastery',
+            'Original Course': 'https://codewithmosh.com/p/the-ultimate-java-mastery-series',
+        },
+        'End': '10 Mar, 2024',
+        'Done': true
+    },
     {
         'Title': 'Java Bootcamp: Zero to Mastery',
         'Info': 'Learn Java from scratch with an industry expert.',
