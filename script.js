@@ -87,7 +87,7 @@ const courses = [
         'Title': 'React Front To Back',
         'Info': 'Learn modern React by building 4 projects.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/React-Front-To-Back',
+            // 'My Implementation': 'https://github.com/katayoon-rb/React-Front-To-Back',
             'Original Course': 'https://www.udemy.com/course/react-front-to-back-2022/',
         },
         'End': '22 Feb, 2024',
@@ -97,7 +97,7 @@ const courses = [
         'Title': 'The Joy of React',
         'Info': 'Build rich, dynamic web apps with React',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/The-Joy-of-React',
+            'My Implementation': 'https://katyjoyofreact.vercel.app/',
             'Original Course': 'https://www.joyofreact.com/',
         },
         'End': '3 Feb, 2024',
