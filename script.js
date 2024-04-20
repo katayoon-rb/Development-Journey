@@ -25,16 +25,6 @@ const courses = [
         'Done': false
     },
     {
-        'Title': 'Ultimate Next.js 13 Course',
-        'Info': 'Escape the shallow content & dive deep into the hottest tech of 2024',
-        'Links': {
-            'My Implementation': 'https://katydevflow.vercel.app/',
-            'Original Course': 'https://www.jsmastery.pro/ultimate-next13-course',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': 'CSS Battle',
         'Info': 'Daily Targets & Battles - HTML/CSS',
         'Links': {
@@ -46,6 +36,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Ultimate Next.js 13 Course',
+        'Info': 'Escape the shallow content & dive deep into the hottest tech of 2024',
+        'Links': {
+            'My Implementation': 'https://katydevflow.vercel.app/',
+            'Original Course': 'https://www.jsmastery.pro/ultimate-next13-course',
+        },
+        'End': '20 Apr, 2024',
+        'Done': false
+    },
     {
         'Title': 'The Ultimate Java Mastery Series',
         'Info': 'Master Java - the most popular programming language underpinning most apps and websites.',
