@@ -44,7 +44,7 @@ const courses = [
             'Original Course': 'https://www.jsmastery.pro/ultimate-next13-course',
         },
         'End': '20 Apr, 2024',
-        'Done': false
+        'Done': true
     },
     {
         'Title': 'The Ultimate Java Mastery Series',
