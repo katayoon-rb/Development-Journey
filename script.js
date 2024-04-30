@@ -37,10 +37,20 @@ const courses = [
 
     // FINISHED
     {
+        'Title': 'Angular Tutorial For Beginners',
+        'Info': 'Secure your spot now and embark on your journey to becoming a Spring Boot master!',
+        'Links': {
+            'My Implementation': '',
+            'Original Course': 'https://www.youtube.com/watch?v=VTEDh2pNSBQ&t=5s',
+        },
+        'End': '30 Apr, 2024',
+        'Done': true
+    },
+    {
         'Title': 'Angular Crash Course 2024 (for Beginners)',
         'Info': 'Building a Storefront with Node.js Backend',
         'Links': {
-            'My Implementation': '',
+            'My Implementation': 'https://github.com/katayoon-rb/Angular-Crash-Course',
             'Original Course': 'https://www.youtube.com/watch?v=f7BJFTEbc10&t=9s',
         },
         'End': '30 Apr, 2024',
