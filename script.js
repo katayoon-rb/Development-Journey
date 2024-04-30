@@ -37,6 +37,16 @@ const courses = [
 
     // FINISHED
     {
+        'Title': 'Angular Crash Course 2024 (for Beginners)',
+        'Info': 'Building a Storefront with Node.js Backend',
+        'Links': {
+            'My Implementation': '',
+            'Original Course': 'https://www.youtube.com/watch?v=f7BJFTEbc10&t=9s',
+        },
+        'End': '30 Apr, 2024',
+        'Done': true
+    },
+    {
         'Title': 'The Next.js Bootcamp',
         'Info': 'The Complete Developer Guide',
         'Links': {
