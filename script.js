@@ -37,26 +37,6 @@ const courses = [
 
     // FINISHED
     {
-        'Title': 'Angular Tutorial for Beginners',
-        'Info': 'Want to get started with Angular? This 2 hour excerpt from my 30+ hour course!',
-        'Links': {
-            'My Implementation': '',
-            'Original Course': 'https://www.youtube.com/watch?v=htPYk6QxacQ&t=46s',
-        },
-        'End': '30 Apr, 2024',
-        'Done': true
-    },
-    {
-        'Title': 'Angular Crash Course',
-        'Info': 'Learn the fundamentals of Angular in this project-based crash course',
-        'Links': {
-            'My Implementation': '',
-            'Original Course': 'https://www.youtube.com/watch?v=3dHNOWTI7H8&t=56s',
-        },
-        'End': '30 Apr, 2024',
-        'Done': true
-    },
-    {
         'Title': 'The Next.js Bootcamp',
         'Info': 'The Complete Developer Guide',
         'Links': {
