@@ -14,6 +14,36 @@ const courses = [
     // },
 
     // ONGOING
+    // {
+    //     'Title': 'Angular Material In Depth',
+    //     'Info': 'In-depth guided tour to the Angular Material component library (in Angular 17)',
+    //     'Links': {
+    //         'My Implementation': 'https://github.com/katayoon-rb/Angular-Material-In-Depth',
+    //         'Original Course': 'https://www.udemy.com/course/angular-material-course/',
+    //     },
+    //     'End': '',
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'Angular Core Deep Dive',
+    //     'Info': 'Advanced Features of the Angular Core and Common modules.',
+    //     'Links': {
+    //         'My Implementation': 'https://github.com/katayoon-rb/Angular-Core-Deep-Dive',
+    //         'Original Course': 'https://www.udemy.com/course/angular-course/?couponCode=ST2MT43024',
+    //     },
+    //     'End': '',
+    //     'Done': false
+    // },
+    {
+        'Title': 'Angular – The Complete Guide',
+        'Info': 'Master Angular (formerly "Angular 2") and build awesome, reactive web apps!',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Angular-The-Complete-Guide',
+            'Original Course': 'https://www.udemy.com/course/the-complete-guide-to-angular-2/',
+        },
+        'End': '',
+        'Done': false
+    },
     {
         'Title': 'CS50ai',
         'Info': 'Artificial intelligence',
@@ -40,7 +70,6 @@ const courses = [
         'Title': 'Angular Tutorial For Beginners',
         'Info': 'Secure your spot now and embark on your journey to becoming a Spring Boot master!',
         'Links': {
-            'My Implementation': '',
             'Original Course': 'https://www.youtube.com/watch?v=VTEDh2pNSBQ&t=5s',
         },
         'End': '30 Apr, 2024',
