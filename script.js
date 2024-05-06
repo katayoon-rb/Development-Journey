@@ -15,16 +15,6 @@ const courses = [
 
     // ONGOING
     {
-        'Title': 'Angular Material In Depth',
-        'Info': 'In-depth guided tour to the Angular Material component library (in Angular 17)',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Angular-Material-In-Depth',
-            'Original Course': 'https://www.udemy.com/course/angular-material-course/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': 'CS50ai',
         'Info': 'Artificial intelligence',
         'Links': {
@@ -46,6 +36,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Angular Material In Depth',
+        'Info': 'In-depth guided tour to the Angular Material component library (in Angular 17)',
+        'Links': {
+            'My Implementation': 'https://katyangularmaterial.vercel.app/',
+            'Original Course': 'https://www.udemy.com/course/angular-material-course/',
+        },
+        'End': '6 May, 2024',
+        'Done': true
+    },
     {
         'Title': 'Angular Core Deep Dive',
         'Info': 'Advanced Features of the Angular Core and Common modules.',
