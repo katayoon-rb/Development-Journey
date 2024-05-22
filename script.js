@@ -89,7 +89,7 @@ const courses = [
         'Title': 'The Next.js Bootcamp',
         'Info': 'The Complete Developer Guide',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/The-Next.js-Bootcamp/',
+            'My Implementation': 'https://katyopentablenextjs.vercel.app/',
             'Original Course': 'https://www.udemy.com/course/the-nextjs-13-bootcamp-the-complete-developer-guide/',
         },
         'End': '27 Apr, 2024',
@@ -99,7 +99,7 @@ const courses = [
         'Title': 'Next JS: The Complete Developer Guide',
         'Info': 'Using App Router, Next Auth, NextUI, and TailwindCSS!',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Dev-Guide',
+            'My Implementation': 'https://katynextjsdevguide.vercel.app/',
             'Original Course': 'https://www.udemy.com/course/the-nextjs-13-bootcamp-the-complete-developer-guide/',
         },
         'End': '24 Apr, 2024',
