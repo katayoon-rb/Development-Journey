@@ -25,16 +25,6 @@ const courses = [
         'Done': false
     },
     {
-        'Title': 'Crash Course: Build a Full-Stack Web App',
-        'Info': 'A quick, fun, and hands-on introduction to web development.',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Full-Stack-Crash-Course',
-            'The Course': 'https://www.udemy.com/course/full-stack-crash-course/',
-        },
-        'End': '',
-        'Done': false
-    },
-    {
         'Title': 'CS50w',
         'Info': "CS50's Web Programming with Python and JavaScript",
         'Links': {
@@ -66,6 +56,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Crash Course: Build a Full-Stack Web App',
+        'Info': 'A quick, fun, and hands-on introduction to web development.',
+        'Links': {
+            'My Implementation': 'https://katyfullstack.vercel.app/',
+            'The Course': 'https://www.udemy.com/course/full-stack-crash-course/',
+        },
+        'End': '25 Jun, 2024',
+        'Done': true
+    },
         {
         'Title': 'Next.js 14 & React',
         'Info': "Learn NextJS 14 and build fullstack ReactJS + NextJS apps with the App or Pages Router!",
