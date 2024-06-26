@@ -15,11 +15,21 @@ const courses = [
 
     // ONGOING
     {
-        'Title': 'HTMX - The Practical Guide',
-        'Info': 'Learn how to use the HTMX library to extend HTML and write simple yet powerful code.',
+        'Title': 'Django Bootcamp: Zero to Mastery',
+        'Info': 'Learn Django from scratch and from an industry expert by building real-world apps.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/HTMX-Practical-Guide',
-            'The Course': 'https://www.udemy.com/course/htmx-the-practical-guide/'
+            'My Implementation': 'https://github.com/katayoon-rb/Django-Bootcamp',
+            'Original Course': 'https://zerotomastery.io/courses/django-bootcamp/',
+        },
+        'End': '',
+        'Done': false
+    },
+    {
+        'Title': 'Python Django - The Practical Guide',
+        'Info': 'Learn how to build web applications and websites with Python and the Django framework',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Django-Practical-Guide',
+            'Original Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
         },
         'End': '',
         'Done': false
@@ -56,6 +66,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'HTMX - The Practical Guide',
+        'Info': 'Learn how to use the HTMX library to extend HTML and write simple yet powerful code.',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/HTMX-Practical-Guide',
+            'The Course': 'https://www.udemy.com/course/htmx-the-practical-guide/'
+        },
+        'End': '26 Jun, 2024',
+        'Done': true
+    },
     {
         'Title': 'Crash Course: Build a Full-Stack Web App',
         'Info': 'A quick, fun, and hands-on introduction to web development.',
