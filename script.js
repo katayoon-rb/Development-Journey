@@ -14,6 +14,36 @@ const courses = [
     // },
 
     // ONGOING
+    // {
+    //     'Title': 'The Nuxt 3 Bootcamp - The Complete Developer Guide',
+    //     'Info': 'Build complex & engaging Vue apps with Nuxt3.',
+    //     'Links': {
+    //         'My Implementation': '',
+    //         'Original Course': 'https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide/',
+    //     },
+    //     'End': '',
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'Nuxt.js 2 - Vue.js on Steroids',
+    //     'Info': 'Build highly engaging Vue JS apps with Nuxt.js.',
+    //     'Links': {
+    //         'My Implementation': '',
+    //         'Original Course': 'https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/',
+    //     },
+    //     'End': '',
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'The Mastering Nuxt 3',
+    //     'Info': ' The complete guide to developing and deploying fast, production-ready Nuxt 3 apps.',
+    //     'Links': {
+    //         'My Implementation': '',
+    //         'Original Course': 'https://masteringnuxt.com/nuxt3/',
+    //     },
+    //     'End': '',
+    //     'Done': false
+    // },
     {
         'Title': 'Python Django - The Practical Guide',
         'Info': 'Learn how to build web applications and websites with Python and the Django framework',
