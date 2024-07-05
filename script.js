@@ -34,22 +34,12 @@ const courses = [
     //     'End': '',
     //     'Done': false
     // },
-    // {
-    //     'Title': 'The Mastering Nuxt 3',
-    //     'Info': ' The complete guide to developing and deploying fast, production-ready Nuxt 3 apps.',
-    //     'Links': {
-    //         'My Implementation': 'https://github.com/katayoon-rb/Mastering-Nuxt',
-    //         'Original Course': 'https://masteringnuxt.com/nuxt3',
-    //     },
-    //     'End': '',
-    //     'Done': false
-    // },
     {
-        'Title': 'Python Django - The Practical Guide',
-        'Info': 'Learn how to build web applications and websites with Python and the Django framework',
+        'Title': 'The Mastering Nuxt 3',
+        'Info': ' The complete guide to developing and deploying fast, production-ready Nuxt 3 apps.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Django-Practical-Guide',
-            'Original Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
+            'My Implementation': 'https://github.com/katayoon-rb/Mastering-Nuxt',
+            'Original Course': 'https://masteringnuxt.com/nuxt3',
         },
         'End': '',
         'Done': false
@@ -86,6 +76,16 @@ const courses = [
     },
 
     // FINISHED
+    {
+        'Title': 'Python Django - The Practical Guide',
+        'Info': 'Learn how to build web applications and websites with Python and the Django framework',
+        'Links': {
+            'My Implementation': 'https://katydjangopracticalguide.vercel.app/',
+            'Original Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
+        },
+        'End': '5 July, 2024',
+        'Done': true
+    },
     {
         'Title': 'Django Bootcamp: Zero to Mastery',
         'Info': 'Learn Django from scratch and from an industry expert by building real-world apps.',
