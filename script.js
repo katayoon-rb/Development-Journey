@@ -47,6 +47,24 @@ const courses = [
 
     // FINISHED
     {
+        'Title': 'Advanced SQL',
+        'Info': 'Take your SQL skills to the next level.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/advanced-sql',
+        },
+        'End': '30 Jul, 2024',
+        'Done': true
+    },
+    {
+        'Title': 'Intro to SQL',
+        'Info': 'Learn SQL for working with databases, using Google BigQuery.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/intro-to-sql',
+        },
+        'End': '29 Jul, 2024',
+        'Done': true
+    },
+    {
         'Title': 'The Nuxt 3 Bootcamp - The Complete Developer Guide',
         'Info': 'Build complex & engaging Vue apps with Nuxt3.',
         'Links': {
