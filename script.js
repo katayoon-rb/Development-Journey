@@ -47,6 +47,51 @@ const courses = [
 
     // FINISHED
     {
+        'Title': 'Intro to Deep Learning',
+        'Info': 'Use TensorFlow and Keras to build and train neural networks for structured data.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/intro-to-deep-learning/course',
+        },
+        'End': '12 Aug, 2024',
+        'Done': true
+    },
+    {
+        'Title': 'Intermediate Machine Learning',
+        'Info': 'Handle missing values, non-numeric values, data leakage, and more.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/intermediate-machine-learning',
+        },
+        'End': '5 Aug, 2024',
+        'Done': true
+    },
+    {
+        'Title': 'Pandas',
+        'Info': 'Solve short hands-on challenges to perfect your data manipulation skills.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/pandas',
+        },
+        'End': '2 Aug, 2024',
+        'Done': true
+    },
+    {
+        'Title': 'Intro to Machine Learning',
+        'Info': 'Learn the core ideas in machine learning, and build your first models.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/intro-to-machine-learning',
+        },
+        'End': '1 Aug, 2024',
+        'Done': true
+    },
+    {
+        'Title': 'Python',
+        'Info': 'Learn the most important language for data science.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/python',
+        },
+        'End': '31 Jul, 2024',
+        'Done': true
+    },
+    {
         'Title': 'Advanced SQL',
         'Info': 'Take your SQL skills to the next level.',
         'Links': {
