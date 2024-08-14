@@ -47,6 +47,15 @@ const courses = [
 
     // FINISHED
     {
+        'Title': 'Machine Learning Explainability',
+        'Info': 'Extract human-understandable insights from any model.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/machine-learning-explainability',
+        },
+        'End': '14 Aug, 2024',
+        'Done': true
+    },
+    {
         'Title': 'Computer Vision',
         'Info': 'Build convolutional neural networks with TensorFlow and Keras.',
         'Links': {
