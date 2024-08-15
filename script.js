@@ -47,6 +47,15 @@ const courses = [
 
     // FINISHED
     {
+        'Title': 'Data Cleaning',
+        'Info': 'Master efficient workflows for cleaning real-world, messy data.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/data-cleaning',
+        },
+        'End': '15 Aug, 2024',
+        'Done': true
+    },
+    {
         'Title': 'Machine Learning Explainability',
         'Info': 'Extract human-understandable insights from any model.',
         'Links': {
